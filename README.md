@@ -95,7 +95,7 @@ pyhabbo/
 | Module | Role |
 |--------|------|
 | `hotels.py` | Maps each Habbo hotel to its API origin (`https://www.habbo.com`, etc.) |
-| `exceptions.py` | `HabboAPIError`, `NotFoundError`, `BadRequestError`, and `parse_api_errors()` |
+| `exceptions.py` | `HabboAPIError`, `NotFoundError`, `BadRequestError` |
 | `_http.py` | Builds `/api/public` URLs, calls httpx, parses JSON, maps HTTP status to exceptions |
 | `client.py` | User-facing client; wires transport and will expose resource namespaces |
 

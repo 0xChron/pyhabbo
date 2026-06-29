@@ -2,7 +2,7 @@ from enum import StrEnum
 
 
 class Hotel(StrEnum):
-    """Habbo hotel domains. Each hotel has its own API origin."""
+    """Habbo hotel API origins. Each member is the full base URL."""
 
     COM = "https://www.habbo.com"
     DE = "https://www.habbo.de"
@@ -13,7 +13,3 @@ class Hotel(StrEnum):
     NL = "https://www.habbo.nl"
     BR = "https://www.habbo.com.br"
     TR = "https://www.habbo.com.tr"
-
-    @property
-    def base_url(self) -> str:
-        return self.value

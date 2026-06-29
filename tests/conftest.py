@@ -7,12 +7,14 @@ from pyhabbo.hotels import Hotel
 
 @pytest.fixture
 def base_url() -> str:
-    return Hotel.COM.base_url
+    return Hotel.COM
 
 
 @pytest.fixture
-def transport(base_url: str) -> HTTPTransport:
-    return HTTPTransport(base_url)
+def transport(base_url: str):
+    t = HTTPTransport(base_url)
+    yield t
+    t.close()
 
 
 @pytest.fixture

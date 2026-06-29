@@ -3,8 +3,6 @@ from pyhabbo.hotels import Hotel
 
 
 class HabboClient:
-    """Client for the Habbo public Web API."""
-
     def __init__(
         self,
         *,
@@ -13,11 +11,9 @@ class HabboClient:
         timeout: float = 10.0,
         headers: dict[str, str] | None = None,
     ) -> None:
-        url = base_url or hotel.base_url
-        self._transport = HTTPTransport(url, timeout=timeout, headers=headers)
+        self._transport = HTTPTransport(base_url or hotel, timeout=timeout, headers=headers)
 
     def ping(self) -> None:
-        """Health check — GET /api/public/ping."""
         self._transport.request("GET", "/ping")
 
     def close(self) -> None:
