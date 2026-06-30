@@ -14,8 +14,6 @@ class Group(BaseModel):
     badge_code: str = Field(alias="badgeCode")
     primary_colour: str = Field(alias="primaryColour")
     secondary_colour: str = Field(alias="secondaryColour")
-    online: bool | None = None
-    is_admin: bool | None = Field(default=None, alias="isAdmin")
 
 
 class GroupMember(BaseModel):

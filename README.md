@@ -82,6 +82,12 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 | `client.groups.get(group_id)` | `GET /groups/{id}` |
 | `client.groups.list_members(group_id)` | `GET /groups/{id}/members` |
 
+### Badges API
+
+| Method | Endpoint |
+|--------|----------|
+| `client.badges.get_owners(badge_code)` | `GET /badge/owners/{badgeCode}` |
+
 ## Architecture
 
 The SDK is organized in layers. Each layer only talks to the one directly below it.
@@ -168,10 +174,11 @@ Implemented:
 - **Users resource** — all 8 `/users` endpoints
 - **Achievements resource** — `GET /achievements` and `GET /achievements/{user_id}`
 - **Groups resource** — `GET /groups/{id}` and `GET /groups/{id}/members`
+- **Badges resource** — `GET /badge/owners/{badgeCode}`
 
 Coming next:
 
-- Rooms, badges, marketplace, lists resources
+- Rooms, marketplace, lists resources
 - Origins endpoints
 
 ## API reference
