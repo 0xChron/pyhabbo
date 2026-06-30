@@ -1,3 +1,4 @@
+from pyhabbo._version import __version__
 from pyhabbo.client import HabboClient
 from pyhabbo.exceptions import BadRequestError, HabboAPIError, NotFoundError
 from pyhabbo.hotels import Hotel
@@ -8,8 +9,6 @@ from pyhabbo.models.hotlooks import HotLook, HotLooks
 from pyhabbo.models.marketplace import MarketplaceBatchStats
 from pyhabbo.models.room import Room
 from pyhabbo.models.user import Friend, User, UserProfile
-
-__version__ = "0.1.0"
 
 __all__ = [
     "AchievementCatalogEntry",

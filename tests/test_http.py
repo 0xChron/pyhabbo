@@ -9,6 +9,16 @@ from pyhabbo.hotels import Hotel
 
 
 @respx.mock
+def test_request_sends_default_user_agent(base_url: str) -> None:
+    route = respx.get(f"{base_url}/api/public/ping").respond(status_code=200, content=b"")
+    transport = HTTPTransport(base_url)
+    transport.request("GET", "/ping")
+    transport.close()
+
+    assert route.calls.last.request.headers["User-Agent"] == "pyhabbo/0.1.0"
+
+
+@respx.mock
 def test_request_returns_json(base_url: str, transport: HTTPTransport) -> None:
     respx.get(f"{base_url}/api/public/ping").respond(json={"ok": True})
     assert transport.request("GET", "/ping") == {"ok": True}

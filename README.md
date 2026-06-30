@@ -2,6 +2,8 @@
 
 Unofficial Python SDK for the [Habbo public Web API](https://www.habbo.com/api/public/api-docs/).
 
+See [examples/](examples/) for runnable example scripts per endpoint.
+
 ## Requirements
 
 - Python 3.11+
@@ -44,17 +46,20 @@ uv run python -c "from pyhabbo import HabboClient; c = HabboClient(); c.ping(); 
 ```python
 from pyhabbo import HabboClient, Hotel
 
-with HabboClient(hotel=Hotel.COM) as client:
-    client.ping()
+client = HabboClient(hotel=Hotel.COM)
+client.ping()
 
-    user = client.users.get_by_name("Habbo")
-    print(user.name, user.current_level)
+user = client.users.get_by_name("Habbo")
+print(user.name, user.current_level)
 
-    profile = client.users.get_profile(user.unique_id)
-    print(len(profile.badges), len(profile.friends))
+profile = client.users.get_profile(user.unique_id)
+print(len(profile.badges), len(profile.friends))
 ```
 
+
 Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You can also pass a custom `base_url` if needed.
+
+
 
 ### Users API
 
@@ -106,101 +111,6 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 |--------|----------|
 | `client.marketplace.batch_stats(room_items=[], wall_items=[])` | `POST /marketplace/stats/batch` |
 
-## Architecture
-
-The SDK is organized in layers. Each layer only talks to the one directly below it.
-
-```mermaid
-flowchart BT
-    UserScript[User script]
-    Client[HabboClient]
-    Resources[Resources - users, groups, ...]
-    Transport[HTTPTransport]
-    API[Habbo REST API]
-
-    UserScript --> Client
-    Client --> Resources
-    Resources --> Transport
-    Transport --> API
-```
-
-### Project layout
-
-```
-pyhabbo/
-├── pyproject.toml
-├── README.md
-├── src/
-│   └── pyhabbo/
-│       ├── __init__.py       # Public exports
-│       ├── client.py         # HabboClient entry point
-│       ├── _http.py          # HTTP transport (internal)
-│       ├── hotels.py         # Hotel enum + base URLs
-│       ├── exceptions.py     # API error types
-│       ├── models/           # Pydantic response models (upcoming)
-│       └── resources/        # Endpoint groups (upcoming)
-└── tests/
-    ├── conftest.py
-    ├── test_hotels.py
-    ├── test_exceptions.py
-    └── test_http.py
-```
-
-### Modules
-
-| Module | Role |
-|--------|------|
-| `hotels.py` | Maps each Habbo hotel to its API origin (`https://www.habbo.com`, etc.) |
-| `exceptions.py` | `HabboAPIError`, `NotFoundError`, `BadRequestError` |
-| `_http.py` | Builds `/api/public` URLs, calls httpx, parses JSON, maps HTTP status to exceptions |
-| `client.py` | User-facing client; wires transport and will expose resource namespaces |
-
-### Error handling
-
-Habbo returns errors like:
-
-```json
-{
-  "errors": [
-    {"param": "id", "msg": "user.invalid_id", "value": "invalid-id-xyz"}
-  ]
-}
-```
-
-The transport raises typed exceptions:
-
-```python
-from pyhabbo import HabboClient
-from pyhabbo.exceptions import NotFoundError
-
-try:
-    with HabboClient() as client:
-        client.ping()
-except NotFoundError as exc:
-    print(exc.status_code)   # 404
-    print(exc.errors[0].msg) # user.invalid_id
-```
-
-## Current status
-
-Implemented:
-
-- Project scaffold (`src/` layout, hatchling build, pytest + respx)
-- `Hotel` enum for all major hotels
-- Exception hierarchy + error parsing
-- `HTTPTransport` and `HabboClient`
-- **Users resource** — all 8 `/users` endpoints
-- **Achievements resource** — `GET /achievements` and `GET /achievements/{user_id}`
-- **Groups resource** — `GET /groups/{id}` and `GET /groups/{id}/members`
-- **Badges resource** — `GET /badge/owners/{badgeCode}`
-- **Rooms resource** — `GET /rooms/{roomId}`
-- **Lists resource** — `GET /lists/hotlooks`
-- **Marketplace resource** — `POST /marketplace/stats/batch`
-
-Coming next:
-
-- Origins endpoints
-- Origins endpoints
 
 ## API reference
 

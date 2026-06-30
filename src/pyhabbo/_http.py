@@ -2,7 +2,10 @@ from typing import Any
 
 import httpx
 
+from pyhabbo._version import __version__
 from pyhabbo.exceptions import BadRequestError, HabboAPIError, NotFoundError, parse_api_errors
+
+_DEFAULT_HEADERS = {"User-Agent": f"pyhabbo/{__version__}"}
 
 
 class HTTPTransport:
@@ -20,7 +23,7 @@ class HTTPTransport:
         self._client = client or httpx.Client(
             base_url=base_url.rstrip("/"),
             timeout=timeout,
-            headers=headers,
+            headers={**_DEFAULT_HEADERS, **(headers or {})},
         )
 
     def close(self) -> None:
