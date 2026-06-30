@@ -8,7 +8,7 @@ from pyhabbo import HabboClient
 from pyhabbo.exceptions import NotFoundError
 
 FIXTURES_DIR = Path(__file__).parent / "fixtures"
-USER_ID = "hhus-44517b21477063301c17d08817bf8479"
+USER_ID = "hhus-d58a49f5fd62a4e49c69d54200191e20"
 
 
 def load_fixture(name: str) -> object:
@@ -41,7 +41,7 @@ def test_list_for_user(base_url: str, client: HabboClient, user_id: str) -> None
 
     achievements = client.achievements.list_for_user(user_id)
 
-    assert len(achievements) == 35
+    assert len(achievements) == 121
     assert achievements[0].achievement.name == "EmailVerification"
     assert achievements[0].level == 1
     assert achievements[0].score == 1

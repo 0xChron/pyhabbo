@@ -18,8 +18,8 @@
             "state": "ENABLED",
             "category": "identity"
         },
-        "level": 0,
-        "score": 1
+        "level": 18,
+        "score": 13
     },
     {
         "achievement": {
@@ -40,8 +40,8 @@
             "state": "ENABLED",
             "category": "explore"
         },
-        "level": 2,
-        "score": 43
+        "level": 20,
+        "score": 3960
     },
     {
         "achievement": {
@@ -62,8 +62,30 @@
             "state": "ENABLED",
             "category": "identity"
         },
-        "level": 19,
-        "score": 1728
+        "level": 20,
+        "score": 1825
+    },
+    {
+        "achievement": {
+            "id": 17,
+            "name": "RespectEarned",
+            "creationTime": "2008-11-04",
+            "state": "ENABLED",
+            "category": "social"
+        },
+        "level": 10,
+        "score": 1166
+    },
+    {
+        "achievement": {
+            "id": 18,
+            "name": "RespectGiven",
+            "creationTime": "2008-11-04",
+            "state": "ENABLED",
+            "category": "social"
+        },
+        "level": 17,
+        "score": 1865
     },
     {
         "achievement": {
@@ -73,8 +95,63 @@
             "state": "ENABLED",
             "category": "identity"
         },
+        "level": 20,
+        "score": 138240
+    },
+    {
+        "achievement": {
+            "id": 23,
+            "name": "PetLover",
+            "creationTime": "2009-11-25",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 3,
+        "score": 8
+    },
+    {
+        "achievement": {
+            "id": 24,
+            "name": "PetLevelUp",
+            "creationTime": "2009-11-25",
+            "state": "ENABLED",
+            "category": "pets"
+        },
         "level": 5,
+        "score": 44
+    },
+    {
+        "achievement": {
+            "id": 25,
+            "name": "PetFeeding",
+            "creationTime": "2009-11-25",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 5,
+        "score": 10104
+    },
+    {
+        "achievement": {
+            "id": 26,
+            "name": "PetRespectGiver",
+            "creationTime": "2009-11-25",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 11,
         "score": 498
+    },
+    {
+        "achievement": {
+            "id": 27,
+            "name": "PetRespectReceiver",
+            "creationTime": "2009-11-25",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 8,
+        "score": 499
     },
     {
         "achievement": {
@@ -95,8 +172,8 @@
             "state": "ENABLED",
             "category": "social"
         },
-        "level": 2,
-        "score": 12
+        "level": 6,
+        "score": 80
     },
     {
         "achievement": {
@@ -106,8 +183,52 @@
             "state": "ENABLED",
             "category": "social"
         },
-        "level": 1,
-        "score": 1
+        "level": 6,
+        "score": 107
+    },
+    {
+        "achievement": {
+            "id": 33,
+            "name": "BattleBallTilesLocked",
+            "creationTime": "2010-09-06",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 20,
+        "score": 282107
+    },
+    {
+        "achievement": {
+            "id": 35,
+            "name": "GamePlayerExperience",
+            "creationTime": "2010-09-06",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 15,
+        "score": 326455
+    },
+    {
+        "achievement": {
+            "id": 36,
+            "name": "EsA",
+            "creationTime": "2010-12-09",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 5,
+        "score": 31
+    },
+    {
+        "achievement": {
+            "id": 38,
+            "name": "TagB",
+            "creationTime": "2010-11-25",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 20,
+        "score": 1284
     },
     {
         "achievement": {
@@ -117,8 +238,8 @@
             "state": "ENABLED",
             "category": "explore"
         },
-        "level": 6,
-        "score": 83
+        "level": 20,
+        "score": 1557
     },
     {
         "achievement": {
@@ -128,8 +249,19 @@
             "state": "ENABLED",
             "category": "room_builder"
         },
-        "level": 10,
-        "score": 170
+        "level": 0,
+        "score": 2
+    },
+    {
+        "achievement": {
+            "id": 47,
+            "name": "RbTagC",
+            "creationTime": "2011-01-26",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 20,
+        "score": 1553
     },
     {
         "achievement": {
@@ -139,8 +271,8 @@
             "state": "ENABLED",
             "category": "room_builder"
         },
-        "level": 10,
-        "score": 170
+        "level": 4,
+        "score": 50
     },
     {
         "achievement": {
@@ -151,7 +283,7 @@
             "category": "room_builder"
         },
         "level": 20,
-        "score": 384
+        "score": 410
     },
     {
         "achievement": {
@@ -161,8 +293,8 @@
             "state": "ENABLED",
             "category": "room_builder"
         },
-        "level": 20,
-        "score": 384
+        "level": 17,
+        "score": 73
     },
     {
         "achievement": {
@@ -172,8 +304,206 @@
             "state": "ENABLED",
             "category": "room_builder"
         },
-        "level": 6,
-        "score": 341
+        "level": 13,
+        "score": 56398
+    },
+    {
+        "achievement": {
+            "id": 53,
+            "name": "RoomDecoFloor",
+            "creationTime": "2011-03-31",
+            "state": "ENABLED",
+            "category": "room_builder"
+        },
+        "level": 3,
+        "score": 7
+    },
+    {
+        "achievement": {
+            "id": 55,
+            "name": "RoomDecoWallpaper",
+            "creationTime": "2011-03-31",
+            "state": "ENABLED",
+            "category": "room_builder"
+        },
+        "level": 3,
+        "score": 10
+    },
+    {
+        "achievement": {
+            "id": 56,
+            "name": "RbBunnyTag",
+            "creationTime": "2011-04-19",
+            "state": "ENABLED",
+            "category": "room_builder"
+        },
+        "level": 4,
+        "score": 50
+    },
+    {
+        "achievement": {
+            "id": 57,
+            "name": "NotesLeft",
+            "creationTime": "2011-05-04",
+            "state": "ENABLED",
+            "category": "social"
+        },
+        "level": 8,
+        "score": 396
+    },
+    {
+        "achievement": {
+            "id": 58,
+            "name": "NotesReceived",
+            "creationTime": "2011-05-04",
+            "state": "ENABLED",
+            "category": "social"
+        },
+        "level": 9,
+        "score": 637
+    },
+    {
+        "achievement": {
+            "id": 59,
+            "name": "MusicPlayer",
+            "creationTime": "2011-05-06",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 9,
+        "score": 3815
+    },
+    {
+        "achievement": {
+            "id": 60,
+            "name": "MusicCollector",
+            "creationTime": "2011-05-06",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 62,
+            "name": "SkateBoardJump",
+            "creationTime": "2011-06-17",
+            "state": "OFF_SEASON",
+            "category": "games"
+        },
+        "level": 20,
+        "score": 50000
+    },
+    {
+        "achievement": {
+            "id": 63,
+            "name": "SkateBoardSlide",
+            "creationTime": "2011-06-17",
+            "state": "OFF_SEASON",
+            "category": "games"
+        },
+        "level": 20,
+        "score": 200008
+    },
+    {
+        "achievement": {
+            "id": 64,
+            "name": "BattleBallQuestCompleted",
+            "creationTime": "2011-06-27",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 65,
+            "name": "FreezeQuestCompleted",
+            "creationTime": "2011-06-27",
+            "state": "ARCHIVED",
+            "category": "games"
+        },
+        "level": 3,
+        "score": 9
+    },
+    {
+        "achievement": {
+            "id": 67,
+            "name": "BattleBallWinner",
+            "creationTime": "2011-06-29",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 14,
+        "score": 105999
+    },
+    {
+        "achievement": {
+            "id": 68,
+            "name": "BattleBallPlayer",
+            "creationTime": "2011-06-29",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 15,
+        "score": 145401
+    },
+    {
+        "achievement": {
+            "id": 69,
+            "name": "FreezeWinner",
+            "creationTime": "2011-06-29",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 15,
+        "score": 214016
+    },
+    {
+        "achievement": {
+            "id": 70,
+            "name": "FreezePlayer",
+            "creationTime": "2011-06-29",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 14,
+        "score": 99133
+    },
+    {
+        "achievement": {
+            "id": 71,
+            "name": "FreezePowerUp",
+            "creationTime": "2011-06-29",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 10,
+        "score": 8773
+    },
+    {
+        "achievement": {
+            "id": 72,
+            "name": "RoomDecoHoleFurniCount",
+            "creationTime": "2011-07-05",
+            "state": "ENABLED",
+            "category": "room_builder"
+        },
+        "level": 10,
+        "score": 170
+    },
+    {
+        "achievement": {
+            "id": 74,
+            "name": "SnowWarTotalScore",
+            "creationTime": "2011-12-21",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 2,
+        "score": 69
     },
     {
         "achievement": {
@@ -183,8 +513,107 @@
             "state": "ENABLED",
             "category": "room_builder"
         },
+        "level": 2,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 80,
+            "name": "HorseJumping",
+            "creationTime": "2012-02-07",
+            "state": "ENABLED",
+            "category": "pets"
+        },
         "level": 5,
-        "score": 160
+        "score": 6000
+    },
+    {
+        "achievement": {
+            "id": 81,
+            "name": "HorseConsecutiveJumpsCount",
+            "creationTime": "2012-02-07",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 20,
+        "score": 35
+    },
+    {
+        "achievement": {
+            "id": 82,
+            "name": "HorseRent",
+            "creationTime": "2012-02-28",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 1,
+        "score": 6
+    },
+    {
+        "achievement": {
+            "id": 101,
+            "name": "MonsterPlantTreater",
+            "creationTime": "2012-05-16",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 3,
+        "score": 348
+    },
+    {
+        "achievement": {
+            "id": 102,
+            "name": "MonsterPlantBreeder",
+            "creationTime": "2012-05-16",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 115,
+            "name": "MonsterPlantGardenOfDeath",
+            "creationTime": "2012-05-22",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 0,
+        "score": 4
+    },
+    {
+        "achievement": {
+            "id": 125,
+            "name": "SafetyQuizGraduate",
+            "creationTime": "2012-06-20",
+            "state": "ARCHIVED",
+            "category": "identity"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 127,
+            "name": "FootballGoalScored",
+            "creationTime": "2012-06-28",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 5,
+        "score": 10000
+    },
+    {
+        "achievement": {
+            "id": 128,
+            "name": "FootballGoalScoredInRoom",
+            "creationTime": "2012-06-28",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 4,
+        "score": 105409
     },
     {
         "achievement": {
@@ -194,8 +623,30 @@
             "state": "ENABLED",
             "category": "social"
         },
+        "level": 7,
+        "score": 363
+    },
+    {
+        "achievement": {
+            "id": 143,
+            "name": "Citizenship",
+            "creationTime": "2012-08-27",
+            "state": "ARCHIVED",
+            "category": "identity"
+        },
         "level": 1,
-        "score": 4
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 184,
+            "name": "PinataWhacker",
+            "creationTime": "2013-07-18",
+            "state": "ENABLED",
+            "category": "crackables"
+        },
+        "level": 4,
+        "score": 80
     },
     {
         "achievement": {
@@ -205,8 +656,8 @@
             "state": "ENABLED",
             "category": "identity"
         },
-        "level": 1,
-        "score": 3
+        "level": 3,
+        "score": 98
     },
     {
         "achievement": {
@@ -217,7 +668,40 @@
             "category": "room_builder"
         },
         "level": 10,
-        "score": 1079
+        "score": 1219
+    },
+    {
+        "achievement": {
+            "id": 199,
+            "name": "GnomeRespectGiver",
+            "creationTime": "2014-03-12",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 3,
+        "score": 37
+    },
+    {
+        "achievement": {
+            "id": 201,
+            "name": "LeprechaunRespectGiver",
+            "creationTime": "2014-03-12",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 1,
+        "score": 7
+    },
+    {
+        "achievement": {
+            "id": 204,
+            "name": "ViciousViking",
+            "creationTime": "2014-05-22",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 7,
+        "score": 160
     },
     {
         "achievement": {
@@ -229,6 +713,237 @@
         },
         "level": 1,
         "score": 1
+    },
+    {
+        "achievement": {
+            "id": 215,
+            "name": "SelfModForumCanReadSeen",
+            "creationTime": "2014-05-27",
+            "state": "ARCHIVED",
+            "category": "explore"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 216,
+            "name": "SelfModForumCanPostSeen",
+            "creationTime": "2014-05-27",
+            "state": "ARCHIVED",
+            "category": "explore"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 217,
+            "name": "SelfModForumCanPostThrdSeen",
+            "creationTime": "2014-05-27",
+            "state": "ARCHIVED",
+            "category": "explore"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 218,
+            "name": "SelfModForumCanModerateSeen",
+            "creationTime": "2014-05-27",
+            "state": "ARCHIVED",
+            "category": "explore"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 219,
+            "name": "DogBreeder",
+            "creationTime": "2014-12-11",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 220,
+            "name": "CatBreeder",
+            "creationTime": "2014-12-11",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 221,
+            "name": "PigBreeder",
+            "creationTime": "2014-12-11",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 222,
+            "name": "HaloompaFeeding",
+            "creationTime": "2015-03-09",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 3,
+        "score": 1907
+    },
+    {
+        "achievement": {
+            "id": 223,
+            "name": "HaloompaRespectGiver",
+            "creationTime": "2015-03-09",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 4,
+        "score": 69
+    },
+    {
+        "achievement": {
+            "id": 224,
+            "name": "HaloompaLevelUp",
+            "creationTime": "2015-03-09",
+            "state": "ENABLED",
+            "category": "pets"
+        },
+        "level": 5,
+        "score": 8
+    },
+    {
+        "achievement": {
+            "id": 226,
+            "name": "CameraPhotoCount",
+            "creationTime": "2015-03-25",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 5,
+        "score": 89
+    },
+    {
+        "achievement": {
+            "id": 231,
+            "name": "Atcg",
+            "creationTime": "2015-10-09",
+            "state": "ENABLED",
+            "category": "crafting"
+        },
+        "level": 5,
+        "score": 60
+    },
+    {
+        "achievement": {
+            "id": 232,
+            "name": "AtcgSecret",
+            "creationTime": "2015-10-09",
+            "state": "ENABLED",
+            "category": "crafting"
+        },
+        "level": 2,
+        "score": 6
+    },
+    {
+        "achievement": {
+            "id": 237,
+            "name": "Jogger",
+            "creationTime": "2016-06-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 6,
+        "score": 495
+    },
+    {
+        "achievement": {
+            "id": 238,
+            "name": "Trampolinist",
+            "creationTime": "2016-06-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 6,
+        "score": 598
+    },
+    {
+        "achievement": {
+            "id": 239,
+            "name": "CrossTrainer",
+            "creationTime": "2016-06-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 7,
+        "score": 634
+    },
+    {
+        "achievement": {
+            "id": 240,
+            "name": "GhostHunter",
+            "creationTime": "2016-09-27",
+            "state": "ENABLED",
+            "category": "crackables"
+        },
+        "level": 1,
+        "score": 2
+    },
+    {
+        "achievement": {
+            "id": 241,
+            "name": "CreatureRearer",
+            "creationTime": "2016-12-12",
+            "state": "ENABLED",
+            "category": "crackables"
+        },
+        "level": 10,
+        "score": 20
+    },
+    {
+        "achievement": {
+            "id": 248,
+            "name": "victailor",
+            "creationTime": "2017-11-21",
+            "state": "ENABLED",
+            "category": "crafting"
+        },
+        "level": 3,
+        "score": 6
+    },
+    {
+        "achievement": {
+            "id": 253,
+            "name": "Tokyo",
+            "creationTime": "2018-08-10",
+            "state": "ENABLED",
+            "category": "crafting"
+        },
+        "level": 0,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 264,
+            "name": "india",
+            "creationTime": "2020-05-18",
+            "state": "ENABLED",
+            "category": "crafting"
+        },
+        "level": 10,
+        "score": 20
     },
     {
         "achievement": {
@@ -305,7 +1020,7 @@
             "category": "trading"
         },
         "level": 1,
-        "score": 124
+        "score": 121
     },
     {
         "achievement": {
@@ -316,7 +1031,7 @@
             "category": "trading"
         },
         "level": 1,
-        "score": 5
+        "score": 1734
     },
     {
         "achievement": {
@@ -338,7 +1053,7 @@
             "category": "trading"
         },
         "level": 1,
-        "score": 6
+        "score": 23
     },
     {
         "achievement": {
@@ -349,7 +1064,18 @@
             "category": "trading"
         },
         "level": 1,
-        "score": 2
+        "score": 260
+    },
+    {
+        "achievement": {
+            "id": 282,
+            "name": "Profile1",
+            "creationTime": "2020-08-24",
+            "state": "ENABLED",
+            "category": "identity"
+        },
+        "level": 1,
+        "score": 1
     },
     {
         "achievement": {
@@ -359,8 +1085,8 @@
             "state": "ENABLED",
             "category": "identity"
         },
-        "level": 5,
-        "score": 18
+        "level": 11,
+        "score": 123
     },
     {
         "achievement": {
@@ -370,8 +1096,19 @@
             "state": "ENABLED",
             "category": "identity"
         },
-        "level": 0,
-        "score": 1
+        "level": 2,
+        "score": 413
+    },
+    {
+        "achievement": {
+            "id": 290,
+            "name": "HabboBuilder_TSale_",
+            "creationTime": "2020-12-10",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 4,
+        "score": 184
     },
     {
         "achievement": {
@@ -380,6 +1117,215 @@
             "creationTime": "2020-12-10",
             "state": "ENABLED",
             "category": "explore"
+        },
+        "level": 1,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 293,
+            "name": "SnowStormWin_",
+            "creationTime": "2021-04-13",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 0,
+        "score": 3
+    },
+    {
+        "achievement": {
+            "id": 294,
+            "name": "SnowStormHit_",
+            "creationTime": "2021-04-13",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 1,
+        "score": 41
+    },
+    {
+        "achievement": {
+            "id": 295,
+            "name": "SnowStormThrow_",
+            "creationTime": "2021-04-13",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 1,
+        "score": 5
+    },
+    {
+        "achievement": {
+            "id": 304,
+            "name": "TradeCount",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 5,
+        "score": 137
+    },
+    {
+        "achievement": {
+            "id": 306,
+            "name": "CoinValueTraded",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 4,
+        "score": 837
+    },
+    {
+        "achievement": {
+            "id": 308,
+            "name": "PlaceCreditValue",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "room_builder"
+        },
+        "level": 1,
+        "score": 3
+    },
+    {
+        "achievement": {
+            "id": 309,
+            "name": "TimeSpentRoomTypeChat",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 14,
+        "score": 29719
+    },
+    {
+        "achievement": {
+            "id": 310,
+            "name": "TimeSpentRoomTypeTrade",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 10,
+        "score": 3764
+    },
+    {
+        "achievement": {
+            "id": 311,
+            "name": "TimeSpentRoomTypeRPG",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 8,
+        "score": 1949
+    },
+    {
+        "achievement": {
+            "id": 312,
+            "name": "TimeSpentRoomTypeGames",
+            "creationTime": "2025-02-18",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 14,
+        "score": 25277
+    },
+    {
+        "achievement": {
+            "id": 313,
+            "name": "DailyTasksCompleted",
+            "creationTime": "2025-04-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 6,
+        "score": 79
+    },
+    {
+        "achievement": {
+            "id": 314,
+            "name": "DailyTaskStreakDays",
+            "creationTime": "2025-04-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 2,
+        "score": 1
+    },
+    {
+        "achievement": {
+            "id": 315,
+            "name": "LegDay",
+            "creationTime": "2025-04-14",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 18,
+        "score": 453082
+    },
+    {
+        "achievement": {
+            "id": 316,
+            "name": "RecycledItems",
+            "creationTime": "2025-05-13",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 12,
+        "score": 912
+    },
+    {
+        "achievement": {
+            "id": 318,
+            "name": "RecyclerRarePrize",
+            "creationTime": "2025-05-13",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 4,
+        "score": 14
+    },
+    {
+        "achievement": {
+            "id": 319,
+            "name": "RecycleBoxOpener",
+            "creationTime": "2025-05-13",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 5,
+        "score": 114
+    },
+    {
+        "achievement": {
+            "id": 320,
+            "name": "RecycleEcoprizes",
+            "creationTime": "2025-05-13",
+            "state": "ENABLED",
+            "category": "explore"
+        },
+        "level": 4,
+        "score": 77
+    },
+    {
+        "achievement": {
+            "id": 328,
+            "name": "GamerPaycheck",
+            "creationTime": "2025-12-08",
+            "state": "ENABLED",
+            "category": "games"
+        },
+        "level": 0,
+        "score": 4
+    },
+    {
+        "achievement": {
+            "id": 329,
+            "name": "FurniOrganizer",
+            "creationTime": "2025-12-08",
+            "state": "ENABLED",
+            "category": "room_builder"
         },
         "level": 1,
         "score": 1

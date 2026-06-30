@@ -50,7 +50,7 @@ class Group(BaseModel):
     name: str | None = None
     description: str | None = None
     type: str | None = None
-    room_id: int | None = Field(default=None, alias="roomId")
+    room_id: str | None = Field(default=None, alias="roomId")
     badge_code: str | None = Field(default=None, alias="badgeCode")
 
 

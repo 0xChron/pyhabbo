@@ -1,18 +1,193 @@
 [
     {
-        "code": "ACH_RegistrationDuration19",
-        "name": "95 % True Habbo XIX",
-        "description": "For being a member of the community for 1643 days."
-    },
-    {
-        "code": "ITF82",
-        "name": "Amb 12 Days of Safety - 2021",
-        "description": "On the 12th day of Safety, the Ambs said to me Ambassador Safety Conference 2021 & Happy Holidays"
-    },
-    {
-        "code": "BWD19",
-        "name": "Bug Catcher!",
+        "code": "DE382",
+        "name": "",
         "description": ""
+    },
+    {
+        "code": "DE56A",
+        "name": "",
+        "description": ""
+    },
+    {
+        "code": "AND06",
+        "name": "1 Million downloads",
+        "description": "To celebrate and say THANKS!"
+    },
+    {
+        "code": "ACH_RegistrationDuration20",
+        "name": "100 % True Habbo XX",
+        "description": "For being a member of the community for 1825 days."
+    },
+    {
+        "code": "DE133",
+        "name": "10k #InstaHabbo Follower Milestone",
+        "description": "Awarded to Habbos for reaching the 10000 #InstaHabbo follower milestone"
+    },
+    {
+        "code": "DE134",
+        "name": "5k #InstaHabbo Follower Milestone",
+        "description": "Awarded to Habbos for reaching the 5000 #InstaHabbo follower milestone"
+    },
+    {
+        "code": "thx",
+        "name": "<3",
+        "description": "<3"
+    },
+    {
+        "code": "ACH_AtcgSecret2",
+        "name": "Advanced crafting",
+        "description": "For getting II secret recipe items using a crafting table."
+    },
+    {
+        "code": "CCS06",
+        "name": "Against Video Fighters - SID 2018",
+        "description": ""
+    },
+    {
+        "code": "US703",
+        "name": "All is bright",
+        "description": "Sleeping under the festive glow."
+    },
+    {
+        "code": "US702",
+        "name": "All is calm",
+        "description": "Partied all night, snoozing all day."
+    },
+    {
+        "code": "IT443",
+        "name": "Amb Infobus Pin - July 2019",
+        "description": ""
+    },
+    {
+        "code": "ES467",
+        "name": "Ambassador Infobus",
+        "description": "You used your knowledge to successfully complete the Ambassador telephrase!"
+    },
+    {
+        "code": "ACH_PetLevelUp5",
+        "name": "Animal trainer V",
+        "description": "For increasing your pet's level 30 times."
+    },
+    {
+        "code": "NL419",
+        "name": "April Fools 2016",
+        "description": "Thanks for playing along:)"
+    },
+    {
+        "code": "W1855",
+        "name": "Argentinian Football Shirt",
+        "description": ""
+    },
+    {
+        "code": "W1810",
+        "name": "Argentinian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1807",
+        "name": "Australian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1819",
+        "name": "Austrian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1860",
+        "name": "Austrian Football shirt",
+        "description": ""
+    },
+    {
+        "code": "UK712",
+        "name": "BaW Season 13 Poll",
+        "description": "Thanks for being part of this!"
+    },
+    {
+        "code": "ACH_SelfModBanSeen1",
+        "name": "Ban",
+        "description": "For being aware of ban option"
+    },
+    {
+        "code": "PV017",
+        "name": "Barca - Real Madrid Community Challenge",
+        "description": "You knew there wouldn\u00b4t be more than 3 goals this match!"
+    },
+    {
+        "code": "ACH_BattleBallPlayer15",
+        "name": "Battle Ball player XV",
+        "description": "For gaining 128415 participation points in Battle Banzai."
+    },
+    {
+        "code": "ACH_BattleBallWinner14",
+        "name": "Battle Banzai winner XIV",
+        "description": "For gaining 68115 victory points at Battle Banzai"
+    },
+    {
+        "code": "US689",
+        "name": "Bavarian Holiday Spirit!",
+        "description": "Bringing Bavarian cheer to Habbox for Xmas!"
+    },
+    {
+        "code": "IT636",
+        "name": "Beauty & the Beast Waltz",
+        "description": ""
+    },
+    {
+        "code": "W1827",
+        "name": "Belgium Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1864",
+        "name": "Belgium Football shirt",
+        "description": ""
+    },
+    {
+        "code": "X1609",
+        "name": "Benji the Bear LTD",
+        "description": "For purchasing Benji the Bear LTD"
+    },
+    {
+        "code": "US747",
+        "name": "Bingy the Cat",
+        "description": ""
+    },
+    {
+        "code": "ACH_TagB20",
+        "name": "Blades of glory XX",
+        "description": "For getting tagged 1284 times while ice skating."
+    },
+    {
+        "code": "ACH_Trampolinist6",
+        "name": "Boing boing VI",
+        "description": "For 240 min training on the Gym Trampoline (not ordinary)."
+    },
+    {
+        "code": "UK771",
+        "name": "Bowie",
+        "description": "I don't know where I'm going from here, but I promise it won't be boring."
+    },
+    {
+        "code": "BRT01",
+        "name": "Bratz Collector",
+        "description": ""
+    },
+    {
+        "code": "W1843",
+        "name": "Brazilian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1872",
+        "name": "Brazilian Football shirt",
+        "description": ""
+    },
+    {
+        "code": "UK727",
+        "name": "Breast Cancer Awareness month",
+        "description": "Thanks for attending Breast Cancer Awareness Session with the Ambassadors"
     },
     {
         "code": "ACH_RoomDecoBC10",
@@ -20,9 +195,314 @@
         "description": "For placing 1000 Builders Club furni."
     },
     {
-        "code": "ACH_BuildersClub1",
+        "code": "ACH_BuildersClub3",
         "name": "Builders Club member",
-        "description": "For having 1 days of Builders Club membership."
+        "description": "For having 62 days of Builders Club membership."
+    },
+    {
+        "code": "ACH_PetLover3",
+        "name": "Can I keep him? III",
+        "description": "For owning 5 pets."
+    },
+    {
+        "code": "US681",
+        "name": "Catch me if you can!",
+        "description": "TJ managed to escape Officer Firre!"
+    },
+    {
+        "code": "ACH_SelfModChatFloodFilterSeen1",
+        "name": "Chat Flood Filter",
+        "description": "For being aware of chat flood filter options"
+    },
+    {
+        "code": "ACH_SelfModChatHearRangeSeen1",
+        "name": "Chat Hearing Range",
+        "description": "For being aware of chat hearing range setting"
+    },
+    {
+        "code": "ACH_SelfModChatScrollSpeedSeen1",
+        "name": "Chat Scroll Speed",
+        "description": "For being aware of chat scroll speed options"
+    },
+    {
+        "code": "X1812",
+        "name": "Christmas Deers 01/05",
+        "description": ""
+    },
+    {
+        "code": "X1815",
+        "name": "Christmas Socks 01/05",
+        "description": ""
+    },
+    {
+        "code": "X1814",
+        "name": "Christmas Theatre 01/05",
+        "description": ""
+    },
+    {
+        "code": "X1636",
+        "name": "Christmas, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "HPB15",
+        "name": "Classic Habburgers Bundle",
+        "description": "For purchasing Classic Habburgers Bundle"
+    },
+    {
+        "code": "W1833",
+        "name": "Colombian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1867",
+        "name": "Colombian Football shirt",
+        "description": ""
+    },
+    {
+        "code": "UK714",
+        "name": "Conga In Style!",
+        "description": "Cha cha cha cha cha, CHA!"
+    },
+    {
+        "code": "GFB10",
+        "name": "Cow Pet Owner",
+        "description": "For purchasing a Cow Pet"
+    },
+    {
+        "code": "ACH_Atcg5",
+        "name": "Crafting",
+        "description": "For getting V non-secret recipe items using a crafting table."
+    },
+    {
+        "code": "HPB07",
+        "name": "Cruise Port Bundle",
+        "description": "For purchasing the Cruise Port Bundle"
+    },
+    {
+        "code": "W26V1",
+        "name": "DLC World 1 Pass - Inside a Painting",
+        "description": ""
+    },
+    {
+        "code": "HDR06",
+        "name": "DR Sports: UEFA Super Cup",
+        "description": ""
+    },
+    {
+        "code": "HDR05",
+        "name": "DR Sports: Women's World Cup",
+        "description": ""
+    },
+    {
+        "code": "US713",
+        "name": "Decapitated!",
+        "description": "Never trusting Daresta again! Habmongus with TJ 2026"
+    },
+    {
+        "code": "X1612",
+        "name": "December 1, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1621",
+        "name": "December 10, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1739",
+        "name": "December 10th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1622",
+        "name": "December 11, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1623",
+        "name": "December 12, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1741",
+        "name": "December 12th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1624",
+        "name": "December 13, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1742",
+        "name": "December 13th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1625",
+        "name": "December 14, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1743",
+        "name": "December 14th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1626",
+        "name": "December 15, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1627",
+        "name": "December 16, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1628",
+        "name": "December 17, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1629",
+        "name": "December 18, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1630",
+        "name": "December 19, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1730",
+        "name": "December 1st, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1613",
+        "name": "December 2, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1631",
+        "name": "December 20, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1749",
+        "name": "December 20th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1632",
+        "name": "December 21, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1633",
+        "name": "December 22, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1751",
+        "name": "December 22nd, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1634",
+        "name": "December 23, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1635",
+        "name": "December 24, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1731",
+        "name": "December 2nd, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1614",
+        "name": "December 3, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1732",
+        "name": "December 3th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1615",
+        "name": "December 4, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1733",
+        "name": "December 4th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1616",
+        "name": "December 5, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1617",
+        "name": "December 6, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1618",
+        "name": "December 7, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1736",
+        "name": "December 7nd, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1619",
+        "name": "December 8, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1737",
+        "name": "December 8th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "X1620",
+        "name": "December 9, 2016",
+        "description": "Santa\u00b4s Magical Castle"
+    },
+    {
+        "code": "X1738",
+        "name": "December 9th, Victorian xmas",
+        "description": ""
+    },
+    {
+        "code": "ACH_SelfModWalkthroughSeen1",
+        "name": "Disable Room Blocking",
+        "description": "For being aware of disabling room blocking option"
+    },
+    {
+        "code": "DITCH",
+        "name": "Ditch the Label",
+        "description": "Equality Badge - ditchthelabel.org"
+    },
+    {
+        "code": "ES450",
+        "name": "Ditch the Label Anti Bullying Poll 2017",
+        "description": ""
+    },
+    {
+        "code": "UK423",
+        "name": "Ditch the Label Infobus Badge",
+        "description": "Thanks for taking part!"
     },
     {
         "code": "ACH_SelfModDoorModeSeen1",
@@ -30,28 +510,373 @@
         "description": "For switching accessibility in room settings."
     },
     {
+        "code": "UK716",
+        "name": "Dream away with HabbCrazy",
+        "description": "If my dreams were to come true, I'd be dreaming of you."
+    },
+    {
+        "code": "EGA28",
+        "name": "Easter Egg Hunt 2018",
+        "description": ""
+    },
+    {
+        "code": "ACH_RecycleBoxOpener5",
+        "name": "Eco-warrior Unleashed V",
+        "description": "For opening 100 prize boxes while recycling"
+    },
+    {
+        "code": "UK704",
+        "name": "Egg Hunt Champion",
+        "description": ""
+    },
+    {
+        "code": "ACH_Jogger6",
+        "name": "Endless road VI",
+        "description": "For 240 min training on the Gym Treadmill."
+    },
+    {
+        "code": "ACH_HorseConsecutiveJumpsCount20",
+        "name": "Equestrian XX",
+        "description": "For jumping over 35 consecutive obstacles successfully."
+    },
+    {
+        "code": "HSH05",
+        "name": "Escape of Exposure",
+        "description": "Habbo Superheroes 2016"
+    },
+    {
+        "code": "X2520",
+        "name": "Esophagor Feeder",
+        "description": ""
+    },
+    {
+        "code": "FBC20",
+        "name": "Euro 2012",
+        "description": "Euro 2012"
+    },
+    {
+        "code": "EUC04",
+        "name": "Eurocup 2016 Quarter Finals",
+        "description": "Portugal is through!"
+    },
+    {
+        "code": "EUC06",
+        "name": "Eurocup 2016 Quarter Finals",
+        "description": "Germany is through!!"
+    },
+    {
+        "code": "EUC09",
+        "name": "Eurocup 2016 Semi 2",
+        "description": "Germany vs France: France wins!!"
+    },
+    {
+        "code": "ERC04",
+        "name": "Eurocup 2020",
+        "description": ""
+    },
+    {
+        "code": "ERC02",
+        "name": "Eurocup 2020",
+        "description": ""
+    },
+    {
+        "code": "ERC03",
+        "name": "Eurocup 2020",
+        "description": ""
+    },
+    {
+        "code": "ERC09",
+        "name": "Eurocup 2020 - Match 03-07",
+        "description": ""
+    },
+    {
+        "code": "ERC10",
+        "name": "Eurocup 2020 - Match 06-07",
+        "description": ""
+    },
+    {
+        "code": "ERC12",
+        "name": "Eurocup 2020 - Match 07-07",
+        "description": ""
+    },
+    {
+        "code": "ERC15",
+        "name": "Eurocup 2020 Final",
+        "description": ""
+    },
+    {
+        "code": "EUR17",
+        "name": "Eurovision 2017",
+        "description": "Your support lead to the correct outcome"
+    },
+    {
+        "code": "GRK20",
+        "name": "Eurovision 2019 Community Challenge",
+        "description": ""
+    },
+    {
+        "code": "EUR22",
+        "name": "Eurovision 2022",
+        "description": ""
+    },
+    {
+        "code": "RADZZ",
+        "name": "Event Promoter",
+        "description": "Event Promoter"
+    },
+    {
+        "code": "ACH_TradeCount5",
+        "name": "Experienced Trader V",
+        "description": "For completing 100 trades. Time to get Habbo rich!"
+    },
+    {
+        "code": "UK764",
+        "name": "Expert Guitarist",
+        "description": "Through the fire and the flames, we carry on!"
+    },
+    {
+        "code": "PV019",
+        "name": "Famous Treasure Hunters Quiz",
+        "description": "Quiz Expert II"
+    },
+    {
+        "code": "PV018",
+        "name": "Famous Treasures Quiz",
+        "description": "Quiz Expert"
+    },
+    {
+        "code": "PV024",
+        "name": "Fearless Viking",
+        "description": "I joined the Vikings Ranks"
+    },
+    {
+        "code": "ACH_GuideFeedbackGiver2",
+        "name": "Feedback provider II",
+        "description": "For giving feedback to helpers 5 times."
+    },
+    {
+        "code": "FFS02",
+        "name": "For having Socks in Flip Flops in your closet",
+        "description": ""
+    },
+    {
+        "code": "ACH_RoomDecoFloor3",
+        "name": "For more floor score III",
+        "description": "For changing the floor pattern of your room."
+    },
+    {
+        "code": "ACH_TimeSpentRoomTypeRPG8",
+        "name": "Forever on Duty VIII",
+        "description": "For being inside an agency or RPG room for 1440 minutes."
+    },
+    {
+        "code": "ACH_SelfModForumCanPostThrdSeen1",
+        "name": "Freedom of speech",
+        "description": "For changing forum thread creation settings."
+    },
+    {
+        "code": "ACH_FreezePlayer14",
+        "name": "Freeze player  XIV",
+        "description": "For gaining 68115 participation points in Freeze."
+    },
+    {
+        "code": "ACH_FreezeQuestCompleted3",
+        "name": "Freeze quest III - Beginner",
+        "description": "For completing 8 Freeze quests."
+    },
+    {
+        "code": "ACH_FreezeWinner15",
+        "name": "Freeze winner  XV",
+        "description": "For gaining 128415 victory points in Freeze"
+    },
+    {
+        "code": "W1826",
+        "name": "French Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "UK760",
+        "name": "Friend of the Kraken",
+        "description": "For telling a kraken joke before you left. \"The Year In Review\", January 2017."
+    },
+    {
         "code": "ACH_TradingPass4",
         "name": "Friendly one",
         "description": "For giving 2 star gems to other people."
     },
     {
-        "code": "ACH_RoomDecoFurniTypeCount20",
-        "name": "Furni collector XX",
-        "description": "For building a room with 384 different furni."
+        "code": "ACH_RoomDecoFurniTypeCount17",
+        "name": "Furni collector XVII",
+        "description": "For building a room with 244 different furni."
     },
     {
-        "code": "ACH_Profile_Gimmegimme_5",
-        "name": "Gimme gimme V",
-        "description": "For collecting your daily gift 14 times."
+        "code": "W1846",
+        "name": "GermanFootball Shorts",
+        "description": ""
     },
     {
-        "code": "ACH_GiftReceiver1",
-        "name": "Greet me I",
-        "description": "For receiving a gift from other people."
+        "code": "ACH_GhostHunter1",
+        "name": "Ghost hunter",
+        "description": "For purifying 1 Ghost Hunters furni."
     },
     {
-        "code": "NFT01",
-        "name": "Habbo Avatar",
+        "code": "ACH_Profile_Gimmegimme_11",
+        "name": "Gimme gimme XI",
+        "description": "For collecting your daily gift 100 times."
+    },
+    {
+        "code": "W2602",
+        "name": "Global BAW Collab 2026 - Coral Abyss",
+        "description": ""
+    },
+    {
+        "code": "W2603",
+        "name": "Global BAW Collab 2026 - Flaming Fury",
+        "description": ""
+    },
+    {
+        "code": "W2604",
+        "name": "Global BAW Collab 2026 - Ice Kingdom",
+        "description": ""
+    },
+    {
+        "code": "W2606",
+        "name": "Global BAW Collab 2026 - Medieval Madness",
+        "description": ""
+    },
+    {
+        "code": "W2609",
+        "name": "Global BAW Collab 2026 - Nimbus Kingdom",
+        "description": ""
+    },
+    {
+        "code": "W2605",
+        "name": "Global BAW Collab 2026 - Spelunking in the Lollipop Caves",
+        "description": ""
+    },
+    {
+        "code": "W2610",
+        "name": "Global BAW Collab 2026 - Undead Island",
+        "description": ""
+    },
+    {
+        "code": "W2601",
+        "name": "Global BAW Collab 2026 - Whispering Woods",
+        "description": ""
+    },
+    {
+        "code": "ACH_CrossTrainer7",
+        "name": "Going somewhere? VII",
+        "description": "For 600 min training on the Hi-tech Crosstrainer."
+    },
+    {
+        "code": "ACH_GiftReceiver6",
+        "name": "Greet me VI",
+        "description": "For receiving 80 gifts from other people."
+    },
+    {
+        "code": "ACH_GuideRecommendation5",
+        "name": "Guide kudos V",
+        "description": "For earning 30 recommendations as a helper."
+    },
+    {
+        "code": "ACH_VipHC2",
+        "name": "HC Member II",
+        "description": "For 12 months of Habbo Club membership."
+    },
+    {
+        "code": "ACH_HC2",
+        "name": "Habbo Club member II",
+        "description": "For having 360 days of Habbo Club membership."
+    },
+    {
+        "code": "ACH_BasicClub2",
+        "name": "Habbo Club veteran II",
+        "description": "For 12 months of Habbo Club membership."
+    },
+    {
+        "code": "ITB60",
+        "name": "Habbo History Buff",
+        "description": "You answered all the questions in Dracco.'s Habbo History quizz correctly!"
+    },
+    {
+        "code": "TR147",
+        "name": "Habbo History Game",
+        "description": "Game created by Pira.pora"
+    },
+    {
+        "code": "ITA80",
+        "name": "Habbo History Month- Fast Food",
+        "description": "You ate some nostalgia in Satu's Fast Food game."
+    },
+    {
+        "code": "UK724",
+        "name": "Habbo History Month- Safety Events",
+        "description": "I won't fall prey to the Kingphisher"
+    },
+    {
+        "code": "UK723",
+        "name": "Habbo History Month- Snowstorm",
+        "description": "I slayed in Alexthedoc's SnowStorm game!"
+    },
+    {
+        "code": "MEM01",
+        "name": "Habbo Memory Game 1",
+        "description": ""
+    },
+    {
+        "code": "MEM10",
+        "name": "Habbo Memory Game 10",
+        "description": ""
+    },
+    {
+        "code": "MEM11",
+        "name": "Habbo Memory Game 11",
+        "description": ""
+    },
+    {
+        "code": "MEM12",
+        "name": "Habbo Memory Game 12",
+        "description": ""
+    },
+    {
+        "code": "MEM02",
+        "name": "Habbo Memory Game 2",
+        "description": ""
+    },
+    {
+        "code": "MEM03",
+        "name": "Habbo Memory Game 3",
+        "description": ""
+    },
+    {
+        "code": "MEM04",
+        "name": "Habbo Memory Game 4",
+        "description": ""
+    },
+    {
+        "code": "MEM05",
+        "name": "Habbo Memory Game 5",
+        "description": ""
+    },
+    {
+        "code": "MEM06",
+        "name": "Habbo Memory Game 6",
+        "description": ""
+    },
+    {
+        "code": "MEM07",
+        "name": "Habbo Memory Game 7",
+        "description": ""
+    },
+    {
+        "code": "MEM08",
+        "name": "Habbo Memory Game 8",
+        "description": ""
+    },
+    {
+        "code": "MEM09",
+        "name": "Habbo Memory Game 9",
         "description": ""
     },
     {
@@ -60,9 +885,104 @@
         "description": "Thanks for selecting your Habbo name after registering."
     },
     {
+        "code": "ES64A",
+        "name": "Habbo Pride Parade 2019!",
+        "description": ""
+    },
+    {
+        "code": "HSH01",
+        "name": "Habbo Shake",
+        "description": "Our 12 points go to YOU!"
+    },
+    {
+        "code": "ACH_HabboWayGraduate1",
+        "name": "Habbo Way",
+        "description": "For passing the Habbo Way quiz!"
+    },
+    {
+        "code": "ACH_Citizenship1",
+        "name": "Habbo citizen",
+        "description": "For earning your citizenship."
+    },
+    {
+        "code": "AND02",
+        "name": "Habbo for Android",
+        "description": "It's about FREAKING time"
+    },
+    {
+        "code": "DE648",
+        "name": "Habbo's Hottest Ten 2016",
+        "description": "Thanks for taking part in the vote for the Hottest Habbo songs of 2016!"
+    },
+    {
+        "code": "BR993",
+        "name": "Habbo's Super Sweet 16!",
+        "description": "You helped to plan the perfect party for Habbo's 16th Birthday."
+    },
+    {
+        "code": "PV026",
+        "name": "HabboTreasure Community Challenge",
+        "description": "I voted for Justin Bieber and I won!"
+    },
+    {
+        "code": "OLY01",
+        "name": "Habbolympix 2016",
+        "description": "Gymnastics Champion"
+    },
+    {
+        "code": "OLY02",
+        "name": "Habbolympix 2016",
+        "description": "Fitness Champion"
+    },
+    {
+        "code": "HGH15",
+        "name": "Habboween Secret 3/5",
+        "description": "I can see you, but can you see me?"
+    },
+    {
+        "code": "HGH13",
+        "name": "Habboween Secret 4/5",
+        "description": "Tip toe gently, or they might hear you!"
+    },
+    {
+        "code": "ACH_GuideChatReviewer3",
+        "name": "Hand of justice III",
+        "description": "For handling 10 bully reports in line with majority."
+    },
+    {
+        "code": "NL510",
+        "name": "Happy 2017!",
+        "description": "Another one bites the dust!"
+    },
+    {
+        "code": "X1755",
+        "name": "Happy 2018!",
+        "description": ""
+    },
+    {
+        "code": "US771",
+        "name": "Happy Pride Month",
+        "description": "Celebrated Pride month 2026 with Ducket.net"
+    },
+    {
+        "code": "TTC28",
+        "name": "Happy Pride Month! |",
+        "description": ""
+    },
+    {
+        "code": "TLB02",
+        "name": "Happy Teletubbies Day!",
+        "description": ""
+    },
+    {
         "code": "ACH_HappyHour1",
         "name": "Happy hour",
         "description": "For logging in during happy hour."
+    },
+    {
+        "code": "ACH_SnowStormThrow_1",
+        "name": "Hardly the target I",
+        "description": "For playing xylophone 5 times while winning in SnowStorm."
     },
     {
         "code": "ACH_Tutorial3",
@@ -70,9 +990,19 @@
         "description": "For typing and sending a chat line."
     },
     {
-        "code": "ACH_RbTagA10",
-        "name": "Hi, roller X",
-        "description": "My skating rink has 170 Roller Rink tiles. Oh yeah!"
+        "code": "ACH_GuideRequestHandler7",
+        "name": "Helping hand VII",
+        "description": "For handling 85 help requests."
+    },
+    {
+        "code": "ACH_RbTagA4",
+        "name": "Hi, roller IV",
+        "description": "My skating rink has 45 Roller Rink tiles. Oh yeah!"
+    },
+    {
+        "code": "TBLT1",
+        "name": "HiPad Early Adopter",
+        "description": "For being one of the first Habbo for iPad users!"
     },
     {
         "code": "ACH_Tutorial4",
@@ -80,19 +1010,119 @@
         "description": "For viewing room settings."
     },
     {
+        "code": "ACH_HorseJumping5",
+        "name": "Horse jumping V",
+        "description": "For jumping 6000 obstacles successfully."
+    },
+    {
+        "code": "ACH_PetRespectReceiver8",
+        "name": "How cute VIII",
+        "description": "For having your pets scratched 300 times."
+    },
+    {
+        "code": "ACH_TimeSpentRoomTypeTrade10",
+        "name": "Hustler of Habbo X",
+        "description": "For being inside a trading room for 2880 minutes. Top Pixel G!"
+    },
+    {
+        "code": "DE77B",
+        "name": "I celebrated Mother's Day with twinnie and Air!",
+        "description": ""
+    },
+    {
+        "code": "PWR02",
+        "name": "I have been powertoo...",
+        "description": "You have been amazing!"
+    },
+    {
+        "code": "ACH_HaloompaRespectGiver4",
+        "name": "I like your Obbah Wobbah",
+        "description": "For scratching anyone's Obbah Wobbahs 40 times."
+    },
+    {
+        "code": "ACH_GnomeRespectGiver3",
+        "name": "I like your gnome III",
+        "description": "For scratching anyone's gnomes 20 times."
+    },
+    {
+        "code": "ACH_LeprechaunRespectGiver1",
+        "name": "I like your leprechaun I",
+        "description": "For scratching anyone's leprechauns 3 times."
+    },
+    {
+        "code": "DE428",
+        "name": "I'd like to be, under the Sea.",
+        "description": "In an octopus's garden, in the shade."
+    },
+    {
         "code": "ACH_Tutorial1",
         "name": "I'm walking here!",
         "description": "For making your avatar walk around."
     },
     {
-        "code": "ACH_TagC6",
-        "name": "Ice ice baby VI",
-        "description": "For ice skating for 81 minutes."
+        "code": "ACH_TagC20",
+        "name": "Ice ice baby XX",
+        "description": "For ice skating for 1551 minutes."
     },
     {
-        "code": "ACH_snowBoardBuild5",
-        "name": "King of the hill V",
-        "description": "My snowboarding hill has 160 Snowboard Patches. Oh yeah!"
+        "code": "ACH_EsA5",
+        "name": "Ice kicking V",
+        "description": "For freezing 30 Habbos in Freeze."
+    },
+    {
+        "code": "ACH_SelfModIgnoreSeen1",
+        "name": "Ignore",
+        "description": "For being aware of ignore option"
+    },
+    {
+        "code": "ACH_india10",
+        "name": "India indeed X",
+        "description": "For making 20 items with Sewing Station crafting table."
+    },
+    {
+        "code": "HOB12",
+        "name": "International Women's Day 2026",
+        "description": "Happy International Women's Day 2026!"
+    },
+    {
+        "code": "ACH_PlaceCreditValue1",
+        "name": "I\u2019m Bobba Rich I",
+        "description": "Place Credit Furni worth 1 coins inside your room, show off your wealth!"
+    },
+    {
+        "code": "US682",
+        "name": "I\u2019ve been busted!",
+        "description": "Officer Valido managed to detain TJ!"
+    },
+    {
+        "code": "ACH_SelfModForumCanPostSeen1",
+        "name": "Just saying",
+        "description": "For changing forum post settings."
+    },
+    {
+        "code": "ACH_SelfModKickSeen1",
+        "name": "Kick",
+        "description": "For being aware of kick option"
+    },
+    {
+        "code": "ACH_snowBoardBuild2",
+        "name": "King of the hill II",
+        "description": "My snowboarding hill has 36 Snowboard Patches. Oh yeah!"
+    },
+    {
+        "code": "ACH_LegDay18",
+        "name": "Leg Day XVIII",
+        "description": "For walking 379500 tiles"
+    },
+    {
+        "code": "SLO11",
+        "name": "Letter Sender",
+        "description": ""
+    },
+    {
+        "code": "ACH_SafetyQuizGraduate1",
+        "name": "Level I Safety tips",
+        "description": "For passing the Safety quiz!"
     },
     {
         "code": "ACH_TradingPass6",
@@ -100,9 +1130,69 @@
         "description": "For reaching avatar level 6."
     },
     {
+        "code": "ACH_FreezePowerUp10",
+        "name": "Literally cool X",
+        "description": "For collecting 6800 Freeze power-ups."
+    },
+    {
+        "code": "UK634",
+        "name": "Look Up At The Sky Day 2016",
+        "description": "You never know what lies beyond the clouds!"
+    },
+    {
         "code": "ACH_AvatarLooks1",
         "name": "Looks that kill I",
         "description": "For changing your look for the first time."
+    },
+    {
+        "code": "ACH_BattleBallTilesLocked20",
+        "name": "Lord of the tiles XX",
+        "description": "For locking 282075 tiles in Battle Banzai."
+    },
+    {
+        "code": "ACH_GuideRequester2",
+        "name": "Lost again II",
+        "description": "For making 5 help requests."
+    },
+    {
+        "code": "SLO10",
+        "name": "Love All the Way",
+        "description": ""
+    },
+    {
+        "code": "US772",
+        "name": "Love in all Colours",
+        "description": "Celebrated Pride month 2026 with Ducket.net"
+    },
+    {
+        "code": "UK654",
+        "name": "MOD-Cle0's First Year",
+        "description": "Who doesn't want a Bengal Kitten?"
+    },
+    {
+        "code": "UK735",
+        "name": "MOD-Cle0's New Hope",
+        "description": "*Squeaks Squeaks* Eats brains"
+    },
+    {
+        "code": "UK653",
+        "name": "MODversary Knowledge",
+        "description": "You know your MODs!"
+    },
+    {
+        "code": "ITB85",
+        "name": "Mammoth's Little Helper",
+        "description": "Making a better Habbo Hotel"
+    },
+    {
+        "code": "GFB24",
+        "name": "Maple Leaf Meadow",
+        "description": "Wear the badge to enter Maple Leaf Meadow"
+    },
+    {
+        "code": "X1811",
+        "name": "Matryoshka\u00b4s 01/05",
+        "description": ""
     },
     {
         "code": "ACH_Tutorial2",
@@ -110,9 +1200,29 @@
         "description": "For visiting your own profile."
     },
     {
-        "code": "ACH_TagA10",
-        "name": "Miracle of ice X",
-        "description": "You can see my ice rink from outer space!"
+        "code": "ACH_TimeSpentRoomTypeChat14",
+        "name": "Mega Chatterbox XIV",
+        "description": "For being inside a chat / discussion or public room for 20160 minutes."
+    },
+    {
+        "code": "US697",
+        "name": "Meow-y Christmas",
+        "description": "Cat in the Santa Hat."
+    },
+    {
+        "code": "IT670",
+        "name": "Mermaids",
+        "description": "Are better off in the sea."
+    },
+    {
+        "code": "UK761",
+        "name": "Missing 2016",
+        "description": "For re-experiencing the first half of 2016 with BaW 2.0. \"The Year In Review\", January 2017."
+    },
+    {
+        "code": "X2517",
+        "name": "Mistle Toe Magic",
+        "description": ""
     },
     {
         "code": "ACH_Tutorial5",
@@ -120,14 +1230,34 @@
         "description": "For moving, rotating or picking up furni or putting furni to room."
     },
     {
-        "code": "NFT36",
-        "name": "NFTmas - Team Elf",
-        "description": "Making mischief with the team elves!"
+        "code": "ACH_SelfModMuteSeen1",
+        "name": "Mute",
+        "description": "For being aware of mute option"
     },
     {
-        "code": "ACH_GiftGiver2",
-        "name": "Nice one II",
-        "description": "For buying 6  items as gifts from shop."
+        "code": "ACH_RoomDecoHoleFurniCount10",
+        "name": "My hole room X",
+        "description": "For making Swiss cheese by adding 170 floor hole furni."
+    },
+    {
+        "code": "NPH16",
+        "name": "Mystery Furni III",
+        "description": ""
+    },
+    {
+        "code": "HTW21",
+        "name": "Next stop, Habbo hotel!",
+        "description": ""
+    },
+    {
+        "code": "ACH_RespectGiven17",
+        "name": "Nice as pie XVII",
+        "description": "For giving respect 1610 times."
+    },
+    {
+        "code": "ACH_GiftGiver6",
+        "name": "Nice one VI",
+        "description": "For buying 80  items as gifts from shop."
     },
     {
         "code": "ACH_TradingPass7",
@@ -140,9 +1270,194 @@
         "description": "For spending 120 minutes in the Hotel."
     },
     {
-        "code": "ACH_AllTimeHotelPresence5",
-        "name": "Online time V - Haze",
-        "description": "For spending 360 minutes in the Hotel."
+        "code": "US701",
+        "name": "Noot noot",
+        "description": "Waddling through the snow"
+    },
+    {
+        "code": "US746",
+        "name": "Not today, Colonel!",
+        "description": ""
+    },
+    {
+        "code": "ACH_HaloompaFeeding3",
+        "name": "Obbah Wobbah eats III",
+        "description": "For having your Obbah Wobbahs eat 1400 points of food."
+    },
+    {
+        "code": "ACH_HaloompaLevelUp5",
+        "name": "Obbah Wobbah trainer V",
+        "description": "For increasing your Obbah Wobbah's level 8 times."
+    },
+    {
+        "code": "HDR04",
+        "name": "On Track: Formula 1",
+        "description": ""
+    },
+    {
+        "code": "ACH_GuideOnDutyPresence9",
+        "name": "On duty IX",
+        "description": "For being on duty as a helper for 2880 minutes."
+    },
+    {
+        "code": "UK649",
+        "name": "Online reputation",
+        "description": "I made the right choices to maintain a good online reputation"
+    },
+    {
+        "code": "ACH_AllTimeHotelPresence20",
+        "name": "Online time XX - Bedrock",
+        "description": "For spending 138240 minutes in the Hotel."
+    },
+    {
+        "code": "US698",
+        "name": "Operation Special Delivery",
+        "description": "Just smile and wave, boys."
+    },
+    {
+        "code": "ACH_FurniOrganizer1",
+        "name": "Organize Your Stuff I",
+        "description": "For using 1 Chests as furni storage inside a room"
+    },
+    {
+        "code": "ACH_RbBunnyTag4",
+        "name": "Overpatch IV",
+        "description": "My Easter grass patch contains 45 Bunny Run Field tiles. Oh yeah!"
+    },
+    {
+        "code": "US692",
+        "name": "O\u2019 Christmas Tree",
+        "description": "It's beginning to look a lot like Christmas."
+    },
+    {
+        "code": "W1853",
+        "name": "Panamanian Football Shirt",
+        "description": ""
+    },
+    {
+        "code": "W1805",
+        "name": "Panamanian Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "SAF07",
+        "name": "Password Champion",
+        "description": "Given to Habbos with safe and UNIQUE passwords."
+    },
+    {
+        "code": "ACH_PetRespectGiver11",
+        "name": "Pet Lover XI",
+        "description": "For scratching anyone's pets at least 470 times."
+    },
+    {
+        "code": "ACH_CameraPhotoCount5",
+        "name": "Photographer V - Pro",
+        "description": "For developing 50 photos. Dedication."
+    },
+    {
+        "code": "ACH_Profile1",
+        "name": "Piece of peace",
+        "description": "For checking your privacy settings."
+    },
+    {
+        "code": "BR886",
+        "name": "Pizzzaaaaa",
+        "description": "Hmm... Look at that cheese!"
+    },
+    {
+        "code": "ACH_PinataWhacker4",
+        "name": "Pi\u00f1ata whacker IV",
+        "description": "For hitting Palooza pi\u00f1atas 50 times."
+    },
+    {
+        "code": "US699",
+        "name": "Polar Express",
+        "description": "All aboard the Polar Express."
+    },
+    {
+        "code": "ACH_MusicPlayer9",
+        "name": "Pop around the clock IX",
+        "description": "For playing 3605  minutes of music on your jukebox."
+    },
+    {
+        "code": "W1858",
+        "name": "Portuguese Football Shirt",
+        "description": ""
+    },
+    {
+        "code": "W1815",
+        "name": "Portuguese Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "ACH_TimeSpentRoomTypeGames14",
+        "name": "Pro Gamer XIV",
+        "description": "For being inside a gaming room for 20160 minutes."
+    },
+    {
+        "code": "US770",
+        "name": "Proud to be",
+        "description": "Celebrated Pride month 2026 with Ducket.net"
+    },
+    {
+        "code": "TYOU2",
+        "name": "RARE Brown Dragon gift badge",
+        "description": ""
+    },
+    {
+        "code": "SLC05",
+        "name": "RARE Butterfly Dress",
+        "description": ""
+    },
+    {
+        "code": "PIH11",
+        "name": "RARE Celestial Dress",
+        "description": ""
+    },
+    {
+        "code": "HYG04",
+        "name": "RARE Nordic Antlers",
+        "description": ""
+    },
+    {
+        "code": "MMS15",
+        "name": "Rare Free Crown",
+        "description": ""
+    },
+    {
+        "code": "JRH03",
+        "name": "Rare Jungle Totem Base",
+        "description": ""
+    },
+    {
+        "code": "JRH05",
+        "name": "Rare Jungle Totem Body",
+        "description": ""
+    },
+    {
+        "code": "JRH08",
+        "name": "Rare Jungle Totem Head",
+        "description": ""
+    },
+    {
+        "code": "JRH01",
+        "name": "Rare Jungle Totem Set",
+        "description": ""
+    },
+    {
+        "code": "HTW16",
+        "name": "Rare\u00a0Sleep Time",
+        "description": ""
+    },
+    {
+        "code": "ACH_Login18",
+        "name": "Resident XVIII - Deep respect",
+        "description": "For logging in 280 days in a row."
+    },
+    {
+        "code": "ACH_RespectEarned10",
+        "name": "Respected Habbo X",
+        "description": "For earning respect 1166 times."
     },
     {
         "code": "ACH_TradingPass3",
@@ -150,19 +1465,34 @@
         "description": "For being a member for 3 days."
     },
     {
+        "code": "UK656",
+        "name": "Roger Jolly",
+        "description": "The jolliest of all Rogers ever known to man."
+    },
+    {
+        "code": "ACH_RbTagC20",
+        "name": "Roller stroller  XX",
+        "description": "For rollerblading for 1551 minutes."
+    },
+    {
+        "code": "ACH_SelfModRoomFilterSeen1",
+        "name": "Room Filter",
+        "description": "For being aware of Custom Room Filter options"
+    },
+    {
         "code": "ACH_RoomDecoFurniCount20",
         "name": "Room builder XX",
         "description": "For building a room with 380 furni."
     },
     {
-        "code": "ACH_RoomDecoHosting6",
-        "name": "Room host VI",
-        "description": "For having visitors spend 180 minutes in your rooms."
+        "code": "ACH_RoomDecoHosting13",
+        "name": "Room host XIII",
+        "description": "For having visitors spend 35000 minutes in your rooms."
     },
     {
-        "code": "ACH_RoomEntry2",
-        "name": "Room raider II",
-        "description": "For 20 room visits. Peeker."
+        "code": "ACH_RoomEntry20",
+        "name": "Room raider XX",
+        "description": "For 4000 room visits. Omnipresent."
     },
     {
         "code": "ACH_TradingPass5",
@@ -170,19 +1500,279 @@
         "description": "For hanging out in 20 rooms that you do not own."
     },
     {
-        "code": "ACH_FriendListSize1",
-        "name": "Socializer I",
-        "description": "For having 2 friends in your friend list."
+        "code": "US712",
+        "name": "Sabotage!",
+        "description": "Those sneaky imposters did it again! Habmongus with TJ 2026"
     },
     {
-        "code": "ACH_FriendsMaker_SGCollect_10",
-        "name": "Star gem collector X",
-        "description": "For receiving 2500 star gems from other people."
-    },
-    {
-        "code": "X2229",
-        "name": "Team Penguin",
+        "code": "IT697",
+        "name": "Safer Internet Day 2018",
         "description": ""
+    },
+    {
+        "code": "LAB09",
+        "name": "Salem LTD",
+        "description": ""
+    },
+    {
+        "code": "US696",
+        "name": "Santa Paws",
+        "description": "I ate Santa's list."
+    },
+    {
+        "code": "ACH_SelfModForumCanModerateSeen1",
+        "name": "Say it right",
+        "description": "For changing forum moderation settings."
+    },
+    {
+        "code": "PT677",
+        "name": "Sea you soon at the beach!",
+        "description": ""
+    },
+    {
+        "code": "X1803",
+        "name": "Secret Badge 03/10 - The Sleeping Beauty",
+        "description": ""
+    },
+    {
+        "code": "X1725",
+        "name": "Secret Badge 5/11 - Fred",
+        "description": ""
+    },
+    {
+        "code": "X1724",
+        "name": "Secret Badge 6/11 - Ghost of Christmas Yet to Come",
+        "description": ""
+    },
+    {
+        "code": "ACH_SelfModForumCanReadSeen1",
+        "name": "Secret society",
+        "description": "For changing forum visibility settings."
+    },
+    {
+        "code": "HSH03",
+        "name": "Silver Mustard",
+        "description": "Badge to transform into Silver Mustard"
+    },
+    {
+        "code": "ACH_SkateBoardJump20",
+        "name": "Skateboard jumper XX",
+        "description": "For jumping 50000 times on a Skate Rail while wearing the skateboard effect."
+    },
+    {
+        "code": "ACH_SkateBoardSlide20",
+        "name": "Skateboard slider XX",
+        "description": "For sliding 200000 times on a Skate Rail while wearing the skateboard effect."
+    },
+    {
+        "code": "US700",
+        "name": "Sleigh! Duck",
+        "description": "Won't you guide my sleigh tonight?"
+    },
+    {
+        "code": "SML01",
+        "name": "Smiley Collector",
+        "description": ""
+    },
+    {
+        "code": "US693",
+        "name": "Snow Day",
+        "description": "Shake it till you make it."
+    },
+    {
+        "code": "ACH_SnowStormHit_1",
+        "name": "Snow fight and the seen targets I",
+        "description": "For hitting opponents with 5 snow balls in SnowStorm games."
+    },
+    {
+        "code": "ITH60",
+        "name": "So Long, 2025!",
+        "description": ""
+    },
+    {
+        "code": "ACH_FootballGoalScoredInRoom4",
+        "name": "Soccer host IV",
+        "description": "For having 8000 goals scored in your room"
+    },
+    {
+        "code": "ACH_FootballGoalScored5",
+        "name": "Soccer scorer V",
+        "description": "For scoring 10000 goals in soccer."
+    },
+    {
+        "code": "ACH_FriendListSize7",
+        "name": "Socializer VII",
+        "description": "For having 300 friends in your friend list."
+    },
+    {
+        "code": "W1848",
+        "name": "Spanish Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "PT107",
+        "name": "Spirit Day 2016",
+        "description": "For knowing your stuff and taking a stand against Bullying!"
+    },
+    {
+        "code": "ACH_HorseRent1",
+        "name": "Stable owner I",
+        "description": "For letting others ride your horse 4 times."
+    },
+    {
+        "code": "ACH_FriendsMaker_SGCollect_7",
+        "name": "Star gem collector VII",
+        "description": "For receiving 1200 star gems from other people."
+    },
+    {
+        "code": "ACH_FriendsMaker3",
+        "name": "Star gem provider III",
+        "description": "For giving 200 star gems to other people."
+    },
+    {
+        "code": "WP011",
+        "name": "Starter chest",
+        "description": ""
+    },
+    {
+        "code": "ACH_NotesLeft8",
+        "name": "Stickie scribbler VIII",
+        "description": "For leaving 347 stickie notes in other people's rooms."
+    },
+    {
+        "code": "ACH_GuideChatReviewRequester1",
+        "name": "Stop bullying",
+        "description": "For making 2 bully reports."
+    },
+    {
+        "code": "ACH_DailyTaskStreakDays2",
+        "name": "Streak Freak II",
+        "description": "For completing all daily tasks for 2 days in a row"
+    },
+    {
+        "code": "US695",
+        "name": "Sugar & Spice",
+        "description": "Do you know the muffin man?"
+    },
+    {
+        "code": "UK663",
+        "name": "Super Knowledge",
+        "description": "Knowledge is the wing that will take you to the skies"
+    },
+    {
+        "code": "ACH_NotesReceived9",
+        "name": "Swamped by stickies IX",
+        "description": "For receiving 507 stickie notes in your rooms."
+    },
+    {
+        "code": "W1821",
+        "name": "Swedish Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1861",
+        "name": "Swedish Football shirt",
+        "description": ""
+    },
+    {
+        "code": "ACH_DailyTasksCompleted6",
+        "name": "Taskmaster VI",
+        "description": "For completing 70 daily tasks"
+    },
+    {
+        "code": "ACH_victailor3",
+        "name": "Taylor series III",
+        "description": "For making 6 garments using the Tailor's Sewing Machine crafting table."
+    },
+    {
+        "code": "X2501",
+        "name": "Team - Rasta Santa",
+        "description": ""
+    },
+    {
+        "code": "CCF31",
+        "name": "Team Bowl Cat Barry",
+        "description": "23catchallenge4 left challenge badge"
+    },
+    {
+        "code": "CCF26",
+        "name": "Team Lap Cat Luna",
+        "description": "23catchallenge1 right challenge badge"
+    },
+    {
+        "code": "X1710",
+        "name": "Ted LTD",
+        "description": ""
+    },
+    {
+        "code": "FI248",
+        "name": "Teddy Bear of Tolerance",
+        "description": "Say No to Hate Speech on Habbo"
+    },
+    {
+        "code": "FI247",
+        "name": "Teddy says...",
+        "description": "NO to hate speech in Habbo!"
+    },
+    {
+        "code": "TLB01",
+        "name": "Teletubbies Collector",
+        "description": ""
+    },
+    {
+        "code": "ITA66",
+        "name": "Thank you for being a friend!",
+        "description": "Your heart is true, you're a pal and an Ambassador."
+    },
+    {
+        "code": "EUR23",
+        "name": "Thanks for voting!",
+        "description": ""
+    },
+    {
+        "code": "GRK19",
+        "name": "Thanks for voting!",
+        "description": ""
+    },
+    {
+        "code": "ELG11",
+        "name": "The Green Egg",
+        "description": ""
+    },
+    {
+        "code": "ITB61",
+        "name": "The Lido",
+        "description": "One last dip before the summer is over"
+    },
+    {
+        "code": "HSH06",
+        "name": "The Natural Disaster",
+        "description": "Habbo Superheroes 2016"
+    },
+    {
+        "code": "ELG12",
+        "name": "The Purple Egg",
+        "description": ""
+    },
+    {
+        "code": "FI186",
+        "name": "The evolution of a super villain",
+        "description": "I was there and all I got was this badge."
+    },
+    {
+        "code": "US687",
+        "name": "The gift of Habbox!",
+        "description": "You\u2019ve unboxed every surprise!"
+    },
+    {
+        "code": "UK805",
+        "name": "They're bacccck! Ditch the Label  and Habbo",
+        "description": ""
+    },
+    {
+        "code": "ACH_PetFeeding5",
+        "name": "They're eating all my credits! V",
+        "description": "For giving pets 6200 points of food."
     },
     {
         "code": "ACH_HabboExplorer1",
@@ -190,13 +1780,208 @@
         "description": "For using a furni (hint: double click/tap)."
     },
     {
+        "code": "UK652",
+        "name": "ThisHabbo Mayday 2016",
+        "description": "Did you manage to deliver your Mayday basket without someone stealing a kiss?"
+    },
+    {
+        "code": "US694",
+        "name": "Thumpety thump thump",
+        "description": "Some people are worth melting for."
+    },
+    {
+        "code": "TDF01",
+        "name": "Tour de France Challenge",
+        "description": ""
+    },
+    {
+        "code": "ACH_TraderPass1",
+        "name": "Trading pass I",
+        "description": "Without a trading pass you can't trade: you have to have an account that is 1 day old and you have to verify your email."
+    },
+    {
+        "code": "ACH_RecycledItems12",
+        "name": "Trash Transformer XII",
+        "description": "For recycling 750 items"
+    },
+    {
+        "code": "ACH_RecyclerRarePrize4",
+        "name": "Trash to Treasure IV",
+        "description": "For obtaining 12 rare items while recycling (Arcane or higher)"
+    },
+    {
+        "code": "ACH_HabboBuilder_TSale_4",
+        "name": "Travelling salesman IV",
+        "description": "For selling 50 items at the Marketplace."
+    },
+    {
+        "code": "ACH_GuideEnrollmentLifetime19",
+        "name": "True helper XIX",
+        "description": "For being a helper for 1643 days."
+    },
+    {
         "code": "ACH_EmailVerification1",
         "name": "True you",
         "description": "For verifying your email address. Thanks!"
     },
     {
+        "code": "W1871",
+        "name": "Tunesian Football shirt",
+        "description": ""
+    },
+    {
+        "code": "W1842",
+        "name": "Tunisian Football Shorts",
+        "description": ""
+    },
+    {
         "code": "ACH_TradingPass1",
         "name": "Tutorial",
         "description": "For completing tutorial."
+    },
+    {
+        "code": "ACH_CoinValueTraded4",
+        "name": "Ultimate pocket changer IV",
+        "description": "For trading Credit Furni worth 750 coins."
+    },
+    {
+        "code": "ACH_RecycleEcoprizes4",
+        "name": "Ultra Green IV",
+        "description": "For recycling 50 prizes obtained from recycling. Nothing goes to waste on your watch! (\u2026Or everything does)"
+    },
+    {
+        "code": "W1830",
+        "name": "Uruguayan Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1865",
+        "name": "Uruguayan Football shirt",
+        "description": ""
+    },
+    {
+        "code": "UK710",
+        "name": "VIP at the VMAs",
+        "description": "Celebrate the VMAs with Habbox!"
+    },
+    {
+        "code": "VCC23",
+        "name": "Valentine's Community Challenge",
+        "description": ""
+    },
+    {
+        "code": "ACH_ViciousViking7",
+        "name": "Vicious Viking VII",
+        "description": "For burning 160 Viking Coties"
+    },
+    {
+        "code": "PV010",
+        "name": "Viking Rider III",
+        "description": "I found the Squid Invader"
+    },
+    {
+        "code": "ACH_RoomDecoWallpaper3",
+        "name": "Wall me III",
+        "description": "For changing the wall pattern of your room."
+    },
+    {
+        "code": "HTW22",
+        "name": "Welcome to Habbo!",
+        "description": ""
+    },
+    {
+        "code": "US688",
+        "name": "What a Christmas Cracker!",
+        "description": "Celebrating a cracking Xmas with Habbox!"
+    },
+    {
+        "code": "UK709",
+        "name": "What an Enchanting Ball!",
+        "description": "Was the ball everything you expected it to be?"
+    },
+    {
+        "code": "ACH_GamePlayerExperience15",
+        "name": "Winning team XV",
+        "description": "For gaining 256830 victory points in Battle Banzai and Freeze."
+    },
+    {
+        "code": "CBN11",
+        "name": "Winter Fashionista",
+        "description": ""
+    },
+    {
+        "code": "X1813",
+        "name": "Winter Festival 01/05",
+        "description": ""
+    },
+    {
+        "code": "CBN09",
+        "name": "Winter Looks Community Challenge - Leather hoodie",
+        "description": ""
+    },
+    {
+        "code": "ACH_SnowWarTotalScore2",
+        "name": "Winter warrior II",
+        "description": "For gaining 55 points in SnowStorm."
+    },
+    {
+        "code": "WCV12",
+        "name": "Witches' Coven Giveaway Winner",
+        "description": ""
+    },
+    {
+        "code": "PT433",
+        "name": "With love from twinnie and Air",
+        "description": ""
+    },
+    {
+        "code": "COM76",
+        "name": "World Kindness Day 2013",
+        "description": "Nice as pie"
+    },
+    {
+        "code": "W1849",
+        "name": "Worldcup 2018 Football Shorts",
+        "description": ""
+    },
+    {
+        "code": "W1875",
+        "name": "Worldcup 2018 Football shirt",
+        "description": ""
+    },
+    {
+        "code": "ACH_MonsterPlantTreater3",
+        "name": "Would you love a monster plant? III",
+        "description": "For tending to 130 monster plants."
+    },
+    {
+        "code": "ACH_CreatureRearer10",
+        "name": "Xmas creature rearer X",
+        "description": "For completing 20 stages of Christmas Citadel's creature evolutions."
+    },
+    {
+        "code": "HGH10",
+        "name": "You survived thanks to your Halloween Knowlegde!",
+        "description": "Good thing you're a smarty pants!"
+    },
+    {
+        "code": "HBB08",
+        "name": "You voted in the Basement Band Community Challenge",
+        "description": ""
+    },
+    {
+        "code": "US734",
+        "name": "You're the cutest clover in the patch.",
+        "description": ""
+    },
+    {
+        "code": "US720",
+        "name": "cooking up more heat than Cosign",
+        "description": ""
+    },
+    {
+        "code": "US719",
+        "name": "just put the fries in the bag bro",
+        "description": ""
     }
 ]
