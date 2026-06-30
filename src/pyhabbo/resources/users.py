@@ -1,4 +1,5 @@
-from pyhabbo.models.user import Badge, Friend, Group, Room, User, UserProfile
+from pyhabbo.models.group import Group
+from pyhabbo.models.user import Badge, Friend, Room, User, UserProfile
 from pyhabbo.resources.base import BaseResource
 
 

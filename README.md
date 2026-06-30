@@ -75,6 +75,13 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 | `client.achievements.list_all()` | `GET /achievements` |
 | `client.achievements.list_for_user(user_id)` | `GET /achievements/{user_id}` |
 
+### Groups API
+
+| Method | Endpoint |
+|--------|----------|
+| `client.groups.get(group_id)` | `GET /groups/{id}` |
+| `client.groups.list_members(group_id)` | `GET /groups/{id}/members` |
+
 ## Architecture
 
 The SDK is organized in layers. Each layer only talks to the one directly below it.
@@ -160,10 +167,11 @@ Implemented:
 - `HTTPTransport` and `HabboClient`
 - **Users resource** — all 8 `/users` endpoints
 - **Achievements resource** — `GET /achievements` and `GET /achievements/{user_id}`
+- **Groups resource** — `GET /groups/{id}` and `GET /groups/{id}/members`
 
 Coming next:
 
-- Groups, rooms, badges, marketplace, lists resources
+- Rooms, badges, marketplace, lists resources
 - Origins endpoints
 
 ## API reference

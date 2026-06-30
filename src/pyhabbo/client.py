@@ -1,6 +1,7 @@
 from pyhabbo._http import HTTPTransport
 from pyhabbo.hotels import Hotel
 from pyhabbo.resources.achievements import AchievementsResource
+from pyhabbo.resources.groups import GroupsResource
 from pyhabbo.resources.users import UsersResource
 
 
@@ -15,11 +16,16 @@ class HabboClient:
     ) -> None:
         self._transport = HTTPTransport(base_url or hotel, timeout=timeout, headers=headers)
         self._achievements = AchievementsResource(self._transport)
+        self._groups = GroupsResource(self._transport)
         self._users = UsersResource(self._transport)
 
     @property
     def achievements(self) -> AchievementsResource:
         return self._achievements
+
+    @property
+    def groups(self) -> GroupsResource:
+        return self._groups
 
     @property
     def users(self) -> UsersResource:
