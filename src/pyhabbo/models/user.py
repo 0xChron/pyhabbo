@@ -3,6 +3,7 @@ from datetime import datetime
 from pydantic import BaseModel, ConfigDict, Field
 
 from pyhabbo.models.group import Group
+from pyhabbo.models.room import Room
 
 
 class Badge(BaseModel):
@@ -43,25 +44,6 @@ class User(BaseModel):
     total_experience: int = Field(alias="totalExperience")
     star_gem_count: int = Field(alias="starGemCount")
     selected_badges: list[SelectedBadge] = Field(alias="selectedBadges")
-
-
-class Room(BaseModel):
-    model_config = ConfigDict(extra="ignore", populate_by_name=True)
-
-    id: int
-    unique_id: str = Field(alias="uniqueId")
-    name: str
-    description: str
-    creation_time: datetime = Field(alias="creationTime")
-    tags: list[str]
-    maximum_visitors: int = Field(alias="maximumVisitors")
-    show_owner_name: bool = Field(alias="showOwnerName")
-    owner_name: str = Field(alias="ownerName")
-    owner_unique_id: str = Field(alias="ownerUniqueId")
-    categories: list[str]
-    thumbnail_url: str | None = Field(default=None, alias="thumbnailUrl")
-    image_url: str | None = Field(default=None, alias="imageUrl")
-    rating: int
 
 
 class UserProfile(BaseModel):

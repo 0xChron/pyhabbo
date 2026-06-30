@@ -3,6 +3,7 @@ from pyhabbo.hotels import Hotel
 from pyhabbo.resources.achievements import AchievementsResource
 from pyhabbo.resources.badges import BadgesResource
 from pyhabbo.resources.groups import GroupsResource
+from pyhabbo.resources.rooms import RoomsResource
 from pyhabbo.resources.users import UsersResource
 
 
@@ -19,6 +20,7 @@ class HabboClient:
         self._achievements = AchievementsResource(self._transport)
         self._badges = BadgesResource(self._transport)
         self._groups = GroupsResource(self._transport)
+        self._rooms = RoomsResource(self._transport)
         self._users = UsersResource(self._transport)
 
     @property
@@ -32,6 +34,10 @@ class HabboClient:
     @property
     def groups(self) -> GroupsResource:
         return self._groups
+
+    @property
+    def rooms(self) -> RoomsResource:
+        return self._rooms
 
     @property
     def users(self) -> UsersResource:
