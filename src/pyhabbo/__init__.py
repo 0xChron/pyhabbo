@@ -4,6 +4,7 @@ from pyhabbo.hotels import Hotel
 from pyhabbo.models.achievement import AchievementCatalogEntry, UserAchievement
 from pyhabbo.models.badge import BadgeOwners
 from pyhabbo.models.group import Group, GroupMember
+from pyhabbo.models.hotlooks import HotLook, HotLooks
 from pyhabbo.models.room import Room
 from pyhabbo.models.user import Friend, User, UserProfile
 
@@ -16,6 +17,8 @@ __all__ = [
     "Friend",
     "Group",
     "GroupMember",
+    "HotLook",
+    "HotLooks",
     "HabboAPIError",
     "HabboClient",
     "Hotel",

@@ -51,6 +51,26 @@ class HTTPTransport:
             return None
         return response.json()
 
+    def request_text(
+        self,
+        method: str,
+        path: str,
+        *,
+        params: dict[str, Any] | None = None,
+        headers: dict[str, str] | None = None,
+    ) -> str:
+        response = self._client.request(
+            method,
+            f"/api/public{path}",
+            params=params,
+            headers=headers,
+        )
+
+        if not response.is_success:
+            self._raise_for_status(response)
+
+        return response.text
+
     def _raise_for_status(self, response: httpx.Response) -> None:
         errors = []
         try:

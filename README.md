@@ -94,6 +94,12 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 |--------|----------|
 | `client.rooms.get(room_id)` | `GET /rooms/{roomId}` |
 
+### Lists API
+
+| Method | Endpoint |
+|--------|----------|
+| `client.lists.list_hotlooks()` | `GET /lists/hotlooks` (XML) |
+
 ## Architecture
 
 The SDK is organized in layers. Each layer only talks to the one directly below it.
@@ -182,10 +188,11 @@ Implemented:
 - **Groups resource** — `GET /groups/{id}` and `GET /groups/{id}/members`
 - **Badges resource** — `GET /badge/owners/{badgeCode}`
 - **Rooms resource** — `GET /rooms/{roomId}`
+- **Lists resource** — `GET /lists/hotlooks`
 
 Coming next:
 
-- Marketplace, lists resources
+- Marketplace resource
 - Origins endpoints
 
 ## API reference
