@@ -1,1 +1,22 @@
-{"uniqueId":"hhus-44517b21477063301c17d08817bf8479","name":"Habbo","figureString":"hr-828-31.hd-180-1.ch-220-66.lg-280-64.sh-290-80","motto":"","online":false,"lastAccessTime":"2026-01-17T13:28:27.000+0000","memberSince":"2021-04-25T09:26:07.000+0000","profileVisible":true,"currentLevel":16,"currentLevelCompletePercent":0,"totalExperience":190,"starGemCount":2510,"selectedBadges":[{"badgeIndex":1,"code":"ITF82","name":"Amb 12 Days of Safety - 2021","description":"On the 12th day of Safety, the Ambs said to me Ambassador Safety Conference 2021 & Happy Holidays"}]}
+{
+    "uniqueId": "hhus-44517b21477063301c17d08817bf8479",
+    "name": "Habbo",
+    "figureString": "hr-828-31.hd-180-1.ch-220-66.lg-280-64.sh-290-80",
+    "motto": "",
+    "online": false,
+    "lastAccessTime": "2026-01-17T13:28:27.000+0000",
+    "memberSince": "2021-04-25T09:26:07.000+0000",
+    "profileVisible": true,
+    "currentLevel": 16,
+    "currentLevelCompletePercent": 0,
+    "totalExperience": 190,
+    "starGemCount": 2510,
+    "selectedBadges": [
+        {
+            "badgeIndex": 1,
+            "code": "ITF82",
+            "name": "Amb 12 Days of Safety - 2021",
+            "description": "On the 12th day of Safety, the Ambs said to me Ambassador Safety Conference 2021 & Happy Holidays"
+        }
+    ]
+}
