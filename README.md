@@ -46,9 +46,27 @@ from pyhabbo import HabboClient, Hotel
 
 with HabboClient(hotel=Hotel.COM) as client:
     client.ping()
+
+    user = client.users.get_by_name("Habbo")
+    print(user.name, user.current_level)
+
+    profile = client.users.get_profile(user.unique_id)
+    print(len(profile.badges), len(profile.friends))
 ```
 
 Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You can also pass a custom `base_url` if needed.
+
+### Users API
+
+| Method | Endpoint |
+|--------|----------|
+| `client.users.get_by_name(name)` | `GET /users?name=` |
+| `client.users.get(user_id)` | `GET /users/{id}` |
+| `client.users.get_profile(user_id)` | `GET /users/{id}/profile` |
+| `client.users.list_friends(user_id)` | `GET /users/{id}/friends` |
+| `client.users.list_groups(user_id)` | `GET /users/{id}/groups` |
+| `client.users.list_rooms(user_id)` | `GET /users/{id}/rooms` |
+| `client.users.list_badges(user_id)` | `GET /users/{id}/badges` |
 
 ## Architecture
 
@@ -132,13 +150,13 @@ Implemented:
 - Project scaffold (`src/` layout, hatchling build, pytest + respx)
 - `Hotel` enum for all major hotels
 - Exception hierarchy + error parsing
-- `HTTPTransport` and `HabboClient.ping()`
+- `HTTPTransport` and `HabboClient`
+- **Users resource** — all 8 `/users` endpoints
 
 Coming next:
 
-- Pydantic models (`models/`)
-- Resource classes (`resources/users.py`, etc.)
-- Full endpoint coverage
+- Groups, rooms, achievements, badges, marketplace, lists resources
+- Origins endpoints
 
 ## API reference
 

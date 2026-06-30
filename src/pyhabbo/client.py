@@ -1,5 +1,6 @@
 from pyhabbo._http import HTTPTransport
 from pyhabbo.hotels import Hotel
+from pyhabbo.resources.users import UsersResource
 
 
 class HabboClient:
@@ -12,6 +13,11 @@ class HabboClient:
         headers: dict[str, str] | None = None,
     ) -> None:
         self._transport = HTTPTransport(base_url or hotel, timeout=timeout, headers=headers)
+        self._users = UsersResource(self._transport)
+
+    @property
+    def users(self) -> UsersResource:
+        return self._users
 
     def ping(self) -> None:
         self._transport.request("GET", "/ping")
