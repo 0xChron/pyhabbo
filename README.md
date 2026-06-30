@@ -100,6 +100,12 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 |--------|----------|
 | `client.lists.list_hotlooks()` | `GET /lists/hotlooks` (XML) |
 
+### Marketplace API
+
+| Method | Endpoint |
+|--------|----------|
+| `client.marketplace.batch_stats(room_items=[], wall_items=[])` | `POST /marketplace/stats/batch` |
+
 ## Architecture
 
 The SDK is organized in layers. Each layer only talks to the one directly below it.
@@ -189,10 +195,11 @@ Implemented:
 - **Badges resource** — `GET /badge/owners/{badgeCode}`
 - **Rooms resource** — `GET /rooms/{roomId}`
 - **Lists resource** — `GET /lists/hotlooks`
+- **Marketplace resource** — `POST /marketplace/stats/batch`
 
 Coming next:
 
-- Marketplace resource
+- Origins endpoints
 - Origins endpoints
 
 ## API reference

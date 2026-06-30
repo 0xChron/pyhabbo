@@ -1,0 +1,455 @@
+{
+    "status": "OK",
+    "roomItemData": [
+        {
+            "item": "throne",
+            "extraData": null,
+            "statsDate": "2026-06-30",
+            "history": [
+                {
+                    "dayOffset": "-30",
+                    "averagePrice": "1075",
+                    "totalSoldItems": "19",
+                    "totalCreditSum": "20418",
+                    "totalOpenOffers": "61"
+                },
+                {
+                    "dayOffset": "-29",
+                    "averagePrice": "1068",
+                    "totalSoldItems": "11",
+                    "totalCreditSum": "11745",
+                    "totalOpenOffers": "144"
+                },
+                {
+                    "dayOffset": "-28",
+                    "averagePrice": "1059",
+                    "totalSoldItems": "9",
+                    "totalCreditSum": "9534",
+                    "totalOpenOffers": "51"
+                },
+                {
+                    "dayOffset": "-27",
+                    "averagePrice": "1061",
+                    "totalSoldItems": "6",
+                    "totalCreditSum": "6365",
+                    "totalOpenOffers": "26"
+                },
+                {
+                    "dayOffset": "-26",
+                    "averagePrice": "1064",
+                    "totalSoldItems": "4",
+                    "totalCreditSum": "4257",
+                    "totalOpenOffers": "23"
+                },
+                {
+                    "dayOffset": "-25",
+                    "averagePrice": "1059",
+                    "totalSoldItems": "5",
+                    "totalCreditSum": "5294",
+                    "totalOpenOffers": "62"
+                },
+                {
+                    "dayOffset": "-24",
+                    "averagePrice": "1123",
+                    "totalSoldItems": "2",
+                    "totalCreditSum": "2246",
+                    "totalOpenOffers": "29"
+                },
+                {
+                    "dayOffset": "-23",
+                    "averagePrice": "1123",
+                    "totalSoldItems": "26",
+                    "totalCreditSum": "29188",
+                    "totalOpenOffers": "38"
+                },
+                {
+                    "dayOffset": "-22",
+                    "averagePrice": "1064",
+                    "totalSoldItems": "5",
+                    "totalCreditSum": "5320",
+                    "totalOpenOffers": "53"
+                },
+                {
+                    "dayOffset": "-21",
+                    "averagePrice": "1099",
+                    "totalSoldItems": "4",
+                    "totalCreditSum": "4396",
+                    "totalOpenOffers": "68"
+                },
+                {
+                    "dayOffset": "-20",
+                    "averagePrice": "670",
+                    "totalSoldItems": "7",
+                    "totalCreditSum": "4687",
+                    "totalOpenOffers": "29"
+                },
+                {
+                    "dayOffset": "-19",
+                    "averagePrice": "1084",
+                    "totalSoldItems": "5",
+                    "totalCreditSum": "5418",
+                    "totalOpenOffers": "43"
+                },
+                {
+                    "dayOffset": "-18",
+                    "averagePrice": "1100",
+                    "totalSoldItems": "4",
+                    "totalCreditSum": "4400",
+                    "totalOpenOffers": "0"
+                },
+                {
+                    "dayOffset": "-17",
+                    "averagePrice": "1100",
+                    "totalSoldItems": "3",
+                    "totalCreditSum": "3300",
+                    "totalOpenOffers": "1"
+                },
+                {
+                    "dayOffset": "-16",
+                    "averagePrice": "1103",
+                    "totalSoldItems": "4",
+                    "totalCreditSum": "4410",
+                    "totalOpenOffers": "6"
+                },
+                {
+                    "dayOffset": "-15",
+                    "averagePrice": "1108",
+                    "totalSoldItems": "3",
+                    "totalCreditSum": "3323",
+                    "totalOpenOffers": "25"
+                },
+                {
+                    "dayOffset": "-14",
+                    "averagePrice": "1114",
+                    "totalSoldItems": "2",
+                    "totalCreditSum": "2227",
+                    "totalOpenOffers": "74"
+                },
+                {
+                    "dayOffset": "-13",
+                    "averagePrice": "1028",
+                    "totalSoldItems": "12",
+                    "totalCreditSum": "12340",
+                    "totalOpenOffers": "62"
+                },
+                {
+                    "dayOffset": "-12",
+                    "averagePrice": "1077",
+                    "totalSoldItems": "12",
+                    "totalCreditSum": "12919",
+                    "totalOpenOffers": "141"
+                },
+                {
+                    "dayOffset": "-11",
+                    "averagePrice": "1099",
+                    "totalSoldItems": "6",
+                    "totalCreditSum": "6591",
+                    "totalOpenOffers": "21"
+                },
+                {
+                    "dayOffset": "-10",
+                    "averagePrice": "1088",
+                    "totalSoldItems": "6",
+                    "totalCreditSum": "6527",
+                    "totalOpenOffers": "7"
+                },
+                {
+                    "dayOffset": "-9",
+                    "averagePrice": "1124",
+                    "totalSoldItems": "5",
+                    "totalCreditSum": "5621",
+                    "totalOpenOffers": "15"
+                },
+                {
+                    "dayOffset": "-8",
+                    "averagePrice": "1100",
+                    "totalSoldItems": "10",
+                    "totalCreditSum": "11003",
+                    "totalOpenOffers": "20"
+                },
+                {
+                    "dayOffset": "-7",
+                    "averagePrice": "1108",
+                    "totalSoldItems": "7",
+                    "totalCreditSum": "7759",
+                    "totalOpenOffers": "4"
+                },
+                {
+                    "dayOffset": "-6",
+                    "averagePrice": "1068",
+                    "totalSoldItems": "12",
+                    "totalCreditSum": "12821",
+                    "totalOpenOffers": "133"
+                },
+                {
+                    "dayOffset": "-5",
+                    "averagePrice": "1037",
+                    "totalSoldItems": "33",
+                    "totalCreditSum": "34214",
+                    "totalOpenOffers": "158"
+                },
+                {
+                    "dayOffset": "-4",
+                    "averagePrice": "1068",
+                    "totalSoldItems": "10",
+                    "totalCreditSum": "10678",
+                    "totalOpenOffers": "28"
+                },
+                {
+                    "dayOffset": "-3",
+                    "averagePrice": "1050",
+                    "totalSoldItems": "13",
+                    "totalCreditSum": "13655",
+                    "totalOpenOffers": "51"
+                },
+                {
+                    "dayOffset": "-2",
+                    "averagePrice": "1024",
+                    "totalSoldItems": "10",
+                    "totalCreditSum": "10238",
+                    "totalOpenOffers": "28"
+                },
+                {
+                    "dayOffset": "-1",
+                    "averagePrice": "1062",
+                    "totalSoldItems": "6",
+                    "totalCreditSum": "6372",
+                    "totalOpenOffers": "38"
+                }
+            ],
+            "soldItemCount": 0,
+            "creditSum": 0,
+            "averagePrice": 1052,
+            "totalOpenOffers": 0,
+            "currentOpenOffers": 9,
+            "currentPrice": 1092,
+            "historyLimitInDays": 30
+        }
+    ],
+    "wallItemData": [
+        {
+            "item": "poster",
+            "extraData": null,
+            "statsDate": "2026-06-30",
+            "history": [
+                {
+                    "dayOffset": "-30",
+                    "averagePrice": "4",
+                    "totalSoldItems": "57",
+                    "totalCreditSum": "227",
+                    "totalOpenOffers": "521"
+                },
+                {
+                    "dayOffset": "-29",
+                    "averagePrice": "9",
+                    "totalSoldItems": "22",
+                    "totalCreditSum": "192",
+                    "totalOpenOffers": "6025"
+                },
+                {
+                    "dayOffset": "-28",
+                    "averagePrice": "39",
+                    "totalSoldItems": "56",
+                    "totalCreditSum": "2172",
+                    "totalOpenOffers": "5622"
+                },
+                {
+                    "dayOffset": "-27",
+                    "averagePrice": "3",
+                    "totalSoldItems": "10",
+                    "totalCreditSum": "25",
+                    "totalOpenOffers": "7418"
+                },
+                {
+                    "dayOffset": "-26",
+                    "averagePrice": "3",
+                    "totalSoldItems": "37",
+                    "totalCreditSum": "95",
+                    "totalOpenOffers": "6130"
+                },
+                {
+                    "dayOffset": "-25",
+                    "averagePrice": "2",
+                    "totalSoldItems": "5",
+                    "totalCreditSum": "10",
+                    "totalOpenOffers": "11969"
+                },
+                {
+                    "dayOffset": "-24",
+                    "averagePrice": "4",
+                    "totalSoldItems": "57",
+                    "totalCreditSum": "206",
+                    "totalOpenOffers": "6169"
+                },
+                {
+                    "dayOffset": "-23",
+                    "averagePrice": "4",
+                    "totalSoldItems": "9",
+                    "totalCreditSum": "37",
+                    "totalOpenOffers": "18352"
+                },
+                {
+                    "dayOffset": "-22",
+                    "averagePrice": "6",
+                    "totalSoldItems": "9",
+                    "totalCreditSum": "54",
+                    "totalOpenOffers": "22333"
+                },
+                {
+                    "dayOffset": "-21",
+                    "averagePrice": "3",
+                    "totalSoldItems": "22",
+                    "totalCreditSum": "59",
+                    "totalOpenOffers": "9932"
+                },
+                {
+                    "dayOffset": "-20",
+                    "averagePrice": "4",
+                    "totalSoldItems": "56",
+                    "totalCreditSum": "202",
+                    "totalOpenOffers": "194"
+                },
+                {
+                    "dayOffset": "-19",
+                    "averagePrice": "3",
+                    "totalSoldItems": "8",
+                    "totalCreditSum": "23",
+                    "totalOpenOffers": "8306"
+                },
+                {
+                    "dayOffset": "-18",
+                    "averagePrice": "27",
+                    "totalSoldItems": "12",
+                    "totalCreditSum": "324",
+                    "totalOpenOffers": "1228"
+                },
+                {
+                    "dayOffset": "-17",
+                    "averagePrice": "13",
+                    "totalSoldItems": "19",
+                    "totalCreditSum": "251",
+                    "totalOpenOffers": "753"
+                },
+                {
+                    "dayOffset": "-16",
+                    "averagePrice": "2",
+                    "totalSoldItems": "24",
+                    "totalCreditSum": "51",
+                    "totalOpenOffers": "80"
+                },
+                {
+                    "dayOffset": "-15",
+                    "averagePrice": "2",
+                    "totalSoldItems": "26",
+                    "totalCreditSum": "64",
+                    "totalOpenOffers": "6867"
+                },
+                {
+                    "dayOffset": "-14",
+                    "averagePrice": "4",
+                    "totalSoldItems": "25",
+                    "totalCreditSum": "108",
+                    "totalOpenOffers": "420"
+                },
+                {
+                    "dayOffset": "-13",
+                    "averagePrice": "3",
+                    "totalSoldItems": "40",
+                    "totalCreditSum": "104",
+                    "totalOpenOffers": "16440"
+                },
+                {
+                    "dayOffset": "-12",
+                    "averagePrice": "5",
+                    "totalSoldItems": "55",
+                    "totalCreditSum": "266",
+                    "totalOpenOffers": "20939"
+                },
+                {
+                    "dayOffset": "-11",
+                    "averagePrice": "2",
+                    "totalSoldItems": "14",
+                    "totalCreditSum": "34",
+                    "totalOpenOffers": "5625"
+                },
+                {
+                    "dayOffset": "-10",
+                    "averagePrice": "35",
+                    "totalSoldItems": "20",
+                    "totalCreditSum": "701",
+                    "totalOpenOffers": "731"
+                },
+                {
+                    "dayOffset": "-9",
+                    "averagePrice": "8",
+                    "totalSoldItems": "57",
+                    "totalCreditSum": "469",
+                    "totalOpenOffers": "4860"
+                },
+                {
+                    "dayOffset": "-8",
+                    "averagePrice": "5",
+                    "totalSoldItems": "44",
+                    "totalCreditSum": "234",
+                    "totalOpenOffers": "14262"
+                },
+                {
+                    "dayOffset": "-7",
+                    "averagePrice": "4",
+                    "totalSoldItems": "115",
+                    "totalCreditSum": "429",
+                    "totalOpenOffers": "166"
+                },
+                {
+                    "dayOffset": "-6",
+                    "averagePrice": "4",
+                    "totalSoldItems": "57",
+                    "totalCreditSum": "218",
+                    "totalOpenOffers": "7919"
+                },
+                {
+                    "dayOffset": "-5",
+                    "averagePrice": "22",
+                    "totalSoldItems": "25",
+                    "totalCreditSum": "555",
+                    "totalOpenOffers": "13426"
+                },
+                {
+                    "dayOffset": "-4",
+                    "averagePrice": "3",
+                    "totalSoldItems": "26",
+                    "totalCreditSum": "85",
+                    "totalOpenOffers": "12249"
+                },
+                {
+                    "dayOffset": "-3",
+                    "averagePrice": "7",
+                    "totalSoldItems": "43",
+                    "totalCreditSum": "306",
+                    "totalOpenOffers": "6393"
+                },
+                {
+                    "dayOffset": "-2",
+                    "averagePrice": "12",
+                    "totalSoldItems": "24",
+                    "totalCreditSum": "287",
+                    "totalOpenOffers": "585"
+                },
+                {
+                    "dayOffset": "-1",
+                    "averagePrice": "4",
+                    "totalSoldItems": "12",
+                    "totalCreditSum": "47",
+                    "totalOpenOffers": "10912"
+                }
+            ],
+            "soldItemCount": 0,
+            "creditSum": 0,
+            "averagePrice": 6,
+            "totalOpenOffers": 0,
+            "currentOpenOffers": 0,
+            "currentPrice": 0,
+            "historyLimitInDays": 30
+        }
+    ]
+}
