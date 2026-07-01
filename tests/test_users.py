@@ -43,7 +43,9 @@ def test_get_by_name_with_etag(base_url: str, client: HabboClient) -> None:
 
 @respx.mock
 def test_get(base_url: str, client: HabboClient, user_id: str) -> None:
-    respx.get(f"{base_url}/api/public/users/{user_id}").respond(json=load_fixture("user_by_id.json"))
+    respx.get(f"{base_url}/api/public/users/{user_id}").respond(
+        json=load_fixture("user_by_id.json")
+    )
 
     user = client.users.get(user_id)
 

@@ -129,6 +129,14 @@ pytest
 ruff check src tests
 ```
 
+CI runs on push/PR to `main` (pytest + ruff on Python 3.11–3.13).
+
+**Versioning:** bump `src/pyhabbo/_version.py` only — hatch reads it for PyPI builds.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).

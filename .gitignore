@@ -11,3 +11,6 @@ wheels/
 
 # Cursor files
 .cursor/
+
+# Local maintainer notes (not for the repo)
+DEVELOPMENT_NOTES.md

@@ -22,9 +22,7 @@ def group_id() -> str:
 
 @respx.mock
 def test_get(base_url: str, client: HabboClient, group_id: str) -> None:
-    respx.get(f"{base_url}/api/public/groups/{group_id}").respond(
-        json=load_fixture("group.json")
-    )
+    respx.get(f"{base_url}/api/public/groups/{group_id}").respond(json=load_fixture("group.json"))
 
     group = client.groups.get(group_id)
 
