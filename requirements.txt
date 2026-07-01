@@ -1,0 +1,8 @@
+# Runtime dependencies for pyhabbo.
+# Used when installing from source: pip install -r requirements.txt && pip install .
+#
+# If you only need the library, install from PyPI instead:
+#   pip install pyhabbo
+
+httpx>=0.28.1
+pydantic>=2.13.4

@@ -2,46 +2,26 @@
 
 Unofficial Python SDK for the [Habbo public Web API](https://www.habbo.com/api/public/api-docs/).
 
-See [examples/](examples/) for runnable example scripts per endpoint.
+> Not affiliated with or endorsed by Sulake Oy or Habbo.
 
-## Requirements
+## Install
 
-- Python 3.11+
-- [uv](https://docs.astral.sh/uv/) (recommended) or pip
+```bash
+pip install pyhabbo
+```
 
-## Setup
+Requires **Python 3.11+**.
+
+### Install from source
 
 ```bash
 git clone https://github.com/0xChron/pyhabbo
 cd pyhabbo
-
-# Create venv and install dependencies
-uv sync --extra dev
-
-# Install the package in editable mode
-uv pip install -e .
+pip install -r requirements.txt
+pip install .
 ```
 
-## Commands
-
-```bash
-# Run the test suite
-uv run pytest
-
-# Run tests with verbose output
-uv run pytest -v
-
-# Lint
-uv run ruff check src tests
-
-# Format
-uv run ruff format src tests
-
-# Quick manual smoke test against the live API
-uv run python -c "from pyhabbo import HabboClient; c = HabboClient(); c.ping(); c.close(); print('ping OK')"
-```
-
-## Usage
+## Quick start
 
 ```python
 from pyhabbo import HabboClient, Hotel
@@ -56,12 +36,23 @@ profile = client.users.get_profile(user.unique_id)
 print(len(profile.badges), len(profile.friends))
 ```
 
+## Hotels
 
-Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You can also pass a custom `base_url` if needed.
+Pass a `Hotel` to target a specific Habbo hotel:
 
+```python
+client = HabboClient(hotel=Hotel.DE)   # habbo.de
+client = HabboClient(hotel=Hotel.FI)   # habbo.fi
+client = HabboClient(hotel=Hotel.COM)  # habbo.com (default)
+```
 
+Available hotels: `COM`, `DE`, `ES`, `FI`, `FR`, `IT`, `NL`, `BR`, `TR`.
 
-### Users API
+You can also pass a custom `base_url` if needed.
+
+## API
+
+### Users
 
 | Method | Endpoint |
 |--------|----------|
@@ -73,49 +64,71 @@ Use a different hotel by passing `hotel=Hotel.DE` (or `.FI`, `.FR`, etc.). You c
 | `client.users.list_rooms(user_id)` | `GET /users/{id}/rooms` |
 | `client.users.list_badges(user_id)` | `GET /users/{id}/badges` |
 
-### Achievements API
+### Achievements
 
 | Method | Endpoint |
 |--------|----------|
 | `client.achievements.list_all()` | `GET /achievements` |
 | `client.achievements.list_for_user(user_id)` | `GET /achievements/{user_id}` |
 
-### Groups API
+### Groups
 
 | Method | Endpoint |
 |--------|----------|
 | `client.groups.get(group_id)` | `GET /groups/{id}` |
 | `client.groups.list_members(group_id)` | `GET /groups/{id}/members` |
 
-### Badges API
+### Badges
 
 | Method | Endpoint |
 |--------|----------|
 | `client.badges.get_owners(badge_code)` | `GET /badge/owners/{badgeCode}` |
 
-### Rooms API
+### Rooms
 
 | Method | Endpoint |
 |--------|----------|
 | `client.rooms.get(room_id)` | `GET /rooms/{roomId}` |
 
-### Lists API
+### Lists
 
 | Method | Endpoint |
 |--------|----------|
-| `client.lists.list_hotlooks()` | `GET /lists/hotlooks` (XML) |
+| `client.lists.list_hotlooks()` | `GET /lists/hotlooks` |
 
-### Marketplace API
+### Marketplace
 
 | Method | Endpoint |
 |--------|----------|
 | `client.marketplace.batch_stats(room_items=[], wall_items=[])` | `POST /marketplace/stats/batch` |
 
+## Examples
 
-## API reference
+Runnable scripts for each endpoint are in [examples/](examples/).
 
-Official docs: [Habbo Web API Swagger UI](https://www.habbo.com/api/public/api-docs/)
+```bash
+git clone https://github.com/0xChron/pyhabbo
+cd pyhabbo
+pip install .
+python examples/public/users/get_by_name.py
+```
+
+## Official API docs
+
+[Habbo Web API Swagger UI](https://www.habbo.com/api/public/api-docs/)
+
+## Development
+
+For contributors — clone the repo and install dev dependencies:
+
+```bash
+git clone https://github.com/0xChron/pyhabbo
+cd pyhabbo
+pip install -e ".[dev]"
+pytest
+ruff check src tests
+```
 
 ## License
 
-MIT - See [LICENSE](LICENSE)
+MIT — see [LICENSE](LICENSE).
